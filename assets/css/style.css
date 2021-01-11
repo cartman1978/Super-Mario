@@ -105,6 +105,11 @@ p {
     text-align: left;
 }
 
+.btn {
+    background-color: #E4001F;
+    font-weight: bold;
+}
+
 .vgames-info {
     text-align: center;
 }
