@@ -49,3 +49,10 @@ ___
 * My Goal as a site owner is to inform my users about the 8 bit gaming generation.
 * I want to communicate how important was Super Mario for my generation and the story behind this amazing character.
 * As a site owner is very important to get in touch with my users and answer any topic about gaming experience and fun fact.
+
+### Customer requirements and expectations
+1. Requirements
+* Easy navigation using navbar -High-
+* Each section most have main information displayed -High-
+* Content dipslayed in a fancy way -Medium-
+* intuitive Contact form -High-
