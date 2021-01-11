@@ -44,3 +44,8 @@ ___
 * I want to find information about Nintendo 8 bit and the raise of the 8 bit era.
 * As a user I want to know more about Super Mario Bros, when was created and the evolution of the character.
 * I want to be able to contact the site owner for more details and information about this game.
+
+### Website Owner Goals
+* My Goal as a site owner is to inform my users about the 8 bit gaming generation.
+* I want to communicate how important was Super Mario for my generation and the story behind this amazing character.
+* As a site owner is very important to get in touch with my users and answer any topic about gaming experience and fun fact.
