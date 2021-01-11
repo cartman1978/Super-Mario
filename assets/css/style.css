@@ -61,7 +61,7 @@ button:focus {
     width: 100%;
 }
 
-/*  */
+/* Diagonal box-1 */
 
 .diagonal-box {
     background-color: #E4001F;
@@ -112,4 +112,13 @@ p {
 
 .vgames-info {
     text-align: center;
+}
+
+/* Diagonal box-2 */
+
+#mario {
+    width: 55px;
+    float: right;
+    margin-top: -60px;
+    margin-right: 3rem;
 }
