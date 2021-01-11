@@ -1,7 +1,9 @@
-body {
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
     margin: 0 auto;
     padding: 0;
-    background-color: brown;
+    background-color: whitesmoke;
 }
 
 .navbar {
@@ -29,4 +31,16 @@ button:focus {
 .navbar-nav li a {
     color: #E4001F !important;
     font-weight: bold;
+}
+
+#hero-header {
+    font-size: 20px;
+    position: absolute;
+    top: 10px;
+    margin: 10px;
+}
+
+.hero .hero-img {
+    background-size: cover;
+    width: 100%;
 }
