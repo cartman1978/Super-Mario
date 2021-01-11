@@ -133,3 +133,7 @@ p {
 .description {
     text-align: center;
 }
+
+hr {
+    border: 1px solid black;
+}
