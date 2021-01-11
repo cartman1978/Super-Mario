@@ -78,6 +78,12 @@ button:focus {
     transform: skewY(11deg);
 }
 
+#bullet {
+    width: 60px;
+    float: right;
+    margin-top: -60px;
+}
+
 h2 {
     transform: skewY(-11deg);
     color: white;
