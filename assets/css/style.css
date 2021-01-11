@@ -33,11 +33,23 @@ button:focus {
     font-weight: bold;
 }
 
-#hero-header {
-    font-size: 20px;
+.hero {
+    position: relative;
+}
+
+.jumbotron {
     position: absolute;
     top: 10px;
-    margin: 10px;
+}
+
+.display-4 {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.lead {
+    font-size: 15px;
 }
 
 .hero .hero-img {
