@@ -24,7 +24,7 @@ button:focus {
 }
 
 .fa-gamepad {
-    color: brown;
+    color: #E4001F;
     font-size: 30px;
 }
 
@@ -42,8 +42,8 @@ button:focus {
     top: 10px;
     padding: 1rem 1rem;
     margin: 1rem;
-    border-radius: 1rem;
-    background: rgba(255, 255, 255, 0.8);
+    border-radius: 1.2rem;
+    background: rgba(238, 227, 227, 0.8);
 }
 
 .display-4 {
@@ -59,4 +59,27 @@ button:focus {
 .hero .hero-img {
     background-size: cover;
     width: 100%;
+}
+
+/*  */
+
+.diagonal-box {
+    /* background-image: linear-gradient(45deg, #6303B1, #ff0099); */
+    background-color: #E4001F;
+    height: 5rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    transform: skewY(-11deg);
+}
+
+.vgames {
+    width: 100%;
+    margin: 0 auto;
+    transform: skewY(11deg);
+}
+
+h2 {
+    transform: skewY(-11deg);
+    color: white;
+    font-weight: bold;
 }
