@@ -100,3 +100,10 @@ h2 {
     height: 13rem;
     border: 2px solid black;
 }
+
+.btn {}
+
+.vgames-info {
+    text-align: center;
+    justify-content: left;
+}
