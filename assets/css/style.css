@@ -89,3 +89,15 @@ h2 {
     color: white;
     font-weight: bold;
 }
+
+/* Carousel */
+
+.carousel {
+    margin-top: 2rem;
+}
+
+.carousel img {
+    border-radius: 30px;
+    height: 13rem;
+    border: 2px solid black;
+}
