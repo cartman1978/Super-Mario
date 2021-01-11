@@ -40,6 +40,10 @@ button:focus {
 .jumbotron {
     position: absolute;
     top: 10px;
+    padding: 1rem 1rem;
+    margin: 1rem;
+    border-radius: 1rem;
+    background: rgba(255, 255, 255, 0.8);
 }
 
 .display-4 {
