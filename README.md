@@ -38,3 +38,9 @@ ___
 * Images of Super Mario + funny images from internet artist.
 * Have a look to the Mario World and the merchandising.
 * Send email to the site owner to get specific information.
+
+### User Point of View
+* As a user what I'm looking for is an attractive webiste where I can spend time and reading interesting information about retro videogames.
+* I want to find information about Nintendo 8 bit and the raise of the 8 bit era.
+* As a user I want to know more about Super Mario Bros, when was created and the evolution of the character.
+* I want to be able to contact the site owner for more details and information about this game.
