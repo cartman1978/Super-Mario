@@ -56,3 +56,9 @@ ___
 * Each section most have main information displayed -High-
 * Content dipslayed in a fancy way -Medium-
 * intuitive Contact form -High-
+
+2. Expectations
+* All the content structured displayed with all the main information.
+* Navigation redirect users to the specific part of the website.
+* Read more button redirect user to useful information related the article.
+* External resource used in the website will provide great informastion and topics.
