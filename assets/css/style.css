@@ -200,3 +200,12 @@ label {
         margin-top: -160px;
     }
 }
+
+@media (min-width: 1640px) {
+    .diagonal-box {
+        margin-top: 12rem;
+    }
+    #bullet {
+        margin-top: -190px;
+    }
+}
