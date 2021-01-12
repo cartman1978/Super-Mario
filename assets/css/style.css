@@ -109,6 +109,10 @@ p {
     text-align: left;
 }
 
+#mario-des {
+    clear: both;
+}
+
 .btn {
     background-color: #E4001F;
     font-weight: bold;
@@ -213,7 +217,7 @@ label {
         margin-right: -18.8rem;
     }
     .description {
-        margin-top: 6rem;
+        margin-top: 2rem;
     }
     .product {
         float: right;
