@@ -75,6 +75,14 @@ button:focus {
     transform: skewY(-11deg);
 }
 
+.diagonal-box-2 {
+    background-color: #E4001F;
+    height: 6rem;
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+    transform: skewY(-11deg);
+}
+
 .vgames {
     width: 100%;
     margin: 0 auto;
@@ -186,6 +194,9 @@ label {
     .diagonal-box {
         margin-top: 6rem;
     }
+    .diagonal-box-2 {
+        margin-top: 19rem;
+    }
     #bullet {
         margin-top: -90px;
     }
@@ -203,7 +214,10 @@ label {
     }
     .carousel {
         float: right;
-        top: -170px;
+        top: -30px;
+    }
+    #v-par {
+        margin-top: 50px;
     }
     .carousel img {
         margin: auto;
@@ -222,6 +236,19 @@ label {
     .product {
         float: right;
     }
+    .diagonal-box-2 {
+        margin-bottom: 6rem;
+    }
+}
+
+@media (min-width: 768px) {
+    .carousel {
+        float: right;
+        top: -130px;
+    }
+    .diagonal-box-2 {
+        margin-top: 8rem;
+    }
 }
 
 @media (min-width: 940px) {
@@ -231,7 +258,11 @@ label {
         padding: 4rem;
     }
     .diagonal-box {
-        margin-top: 14rem;
+        margin-top: 8rem;
+        margin-bottom: 8rem;
+    }
+    .diagonal-box-2 {
+        margin-top: 15rem;
     }
     #bullet {
         margin-top: -120px;
