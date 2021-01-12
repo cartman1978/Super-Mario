@@ -45,6 +45,7 @@ button:focus {
     margin: 1rem;
     border-radius: 1.2rem;
     background: rgba(238, 227, 227, 0.8);
+    justify-content: center;
 }
 
 .display-4 {
@@ -181,6 +182,10 @@ label {
     #bullet {
         margin-top: -90px;
     }
+}
+
+@media (min-width: 640px) {
+    .container {}
 }
 
 @media (min-width: 940px) {
