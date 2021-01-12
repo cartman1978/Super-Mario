@@ -153,3 +153,7 @@ hr {
 .form-img {
     background-image: url("/assets/images/img_5.jpg");
 }
+
+label {
+    color: cornsilk;
+}
