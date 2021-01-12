@@ -147,3 +147,9 @@ hr {
 #merchandising {
     width: 100%;
 }
+
+/* Form */
+
+.form-img {
+    background-image: url("/assets/images/img_5.jpg");
+}
