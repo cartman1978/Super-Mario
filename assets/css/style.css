@@ -159,3 +159,7 @@ label {
     color: cornsilk;
     font-weight: bold;
 }
+
+#btn-form {
+    width: 6rem;
+}
