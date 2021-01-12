@@ -155,5 +155,7 @@ hr {
 }
 
 label {
+    margin-top: 1rem;
     color: cornsilk;
+    font-weight: bold;
 }
