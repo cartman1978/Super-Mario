@@ -187,22 +187,33 @@ label {
 @media (min-width: 640px) {
     .jumbotron {
         top: 98px;
-        right: -250px;
+        right: -210px;
         padding: 1rem 1rem;
         margin: 16rem;
     }
     .carousel {
-        margin: 6rem;
+        margin: 6.5rem;
         width: 100%;
     }
 }
 
 @media (min-width: 940px) {
+    .jumbotron {
+        margin: 8.5rem;
+        right: -90px;
+        padding: 4rem;
+    }
     .diagonal-box {
         margin-top: 8rem;
     }
     #bullet {
         margin-top: -120px;
+    }
+    .carousel {
+        margin: 7.5rem;
+    }
+    .carousel img {
+        height: 18rem;
     }
 }
 
