@@ -4,6 +4,7 @@ html, body {
     margin: 0 auto;
     padding: 0;
     background-color: whitesmoke;
+    overflow-x: hidden;
 }
 
 .navbar {
@@ -152,6 +153,7 @@ hr {
 
 .form-img {
     background-image: url("/assets/images/img_5.jpg");
+    background-size: cover;
 }
 
 label {
