@@ -309,7 +309,13 @@ label {
         margin-top: -100px;
         margin-right: -33rem;
     }
-    #merchandising {}
+    #merchandising {
+        width: 43%;
+    }
+    #btn-merch {
+        display: block;
+        margin-left: 26rem;
+    }
 }
 
 @media (min-width: 1640px) {
