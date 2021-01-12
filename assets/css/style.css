@@ -207,6 +207,12 @@ label {
         margin-top: -50px;
         margin-right: 1.8rem;
     }
+    .description {
+        margin-top: 6rem;
+    }
+    .product {
+        float: right;
+    }
 }
 
 @media (min-width: 940px) {
