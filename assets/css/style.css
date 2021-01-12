@@ -187,9 +187,9 @@ label {
 @media (min-width: 640px) {
     .jumbotron {
         top: 98px;
-        right: -80px;
+        right: -250px;
         padding: 1rem 1rem;
-        margin: 18rem;
+        margin: 16rem;
     }
 }
 
