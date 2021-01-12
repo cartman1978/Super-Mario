@@ -264,18 +264,21 @@ label {
         margin-top: -100px;
         margin-right: 1.8rem;
     }
-    /* .carousel {
-        display: none;
-    } */
-}
-
 }
 
 @media (min-width: 1640px) {
     .diagonal-box {
-        margin-top: 12rem;
+        margin-top: 15rem;
     }
     #bullet {
         margin-top: -190px;
+    }
+    #mushroom {
+        margin-top: -170px;
+        margin-right: 1.8rem;
+    }
+    #mario {
+        margin-top: -200px;
+        margin-right: 3rem;
     }
 }
