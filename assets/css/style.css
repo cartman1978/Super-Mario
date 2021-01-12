@@ -62,6 +62,7 @@ button:focus {
     background-size: cover;
     width: 100%;
     min-height: 18rem;
+    max-height: 46rem;
 }
 
 /* Diagonal box-1 */
@@ -263,6 +264,9 @@ label {
         margin-top: -100px;
         margin-right: 1.8rem;
     }
+    /* .carousel {
+        display: none;
+    } */
 }
 
 }
