@@ -161,9 +161,14 @@ hr {
 }
 
 #merchandising {
+    border-radius: 30px;
     width: 100%;
     min-height: 350px;
     max-height: 500px;
+}
+
+.funny>img {
+    border-radius: 20px;
 }
 
 /* Form */
@@ -294,6 +299,7 @@ label {
     }
     .description {
         margin-top: 8rem;
+        padding: 8rem;
     }
     #mario {
         margin-top: -130px;
@@ -303,6 +309,7 @@ label {
         margin-top: -100px;
         margin-right: -33rem;
     }
+    #merchandising {}
 }
 
 @media (min-width: 1640px) {
