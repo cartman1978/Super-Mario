@@ -195,9 +195,8 @@ label {
         margin: 16rem;
     }
     .carousel {
-        /* margin: 6.5rem; */
-        margin: auto;
-        width: 100%;
+        float: right;
+        top: -140px;
     }
     .carousel img {
         margin: auto;
@@ -225,24 +224,26 @@ label {
         padding: 4rem;
     }
     .diagonal-box {
-        margin-top: 8rem;
+        margin-top: 14rem;
     }
     #bullet {
         margin-top: -120px;
     }
     .carousel {
-        margin: 7.5rem;
+        /* margin: 7.5rem; */
+        float: right;
+        top: -140px;
     }
     .carousel img {
         height: 18rem;
     }
     #mario {
         margin-top: -100px;
-        margin-right: 3rem;
+        margin-right: -400px;
     }
     #mushroom {
         margin-top: -70px;
-        margin-right: 1.8rem;
+        margin-right: -40px;
     }
 }
 
