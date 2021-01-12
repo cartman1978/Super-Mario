@@ -194,20 +194,23 @@ label {
         padding: 1rem 1rem;
         margin: 16rem;
     }
+    .container {
+        margin-top: 5rem;
+    }
     .carousel {
         float: right;
-        top: -140px;
+        top: -170px;
     }
     .carousel img {
         margin: auto;
     }
     #mario {
         margin-top: -80px;
-        margin-right: 3rem;
+        margin-right: -18rem;
     }
     #mushroom {
         margin-top: -50px;
-        margin-right: 1.8rem;
+        margin-right: -18.8rem;
     }
     .description {
         margin-top: 6rem;
