@@ -137,3 +137,13 @@ p {
 hr {
     border: 1px solid black;
 }
+
+/* Product */
+
+.product {
+    text-align: center;
+}
+
+#merchandising {
+    width: 100%;
+}
