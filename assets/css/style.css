@@ -192,8 +192,12 @@ label {
         margin: 16rem;
     }
     .carousel {
-        margin: 6.5rem;
+        /* margin: 6.5rem; */
+        margin: auto;
         width: 100%;
+    }
+    .carousel img {
+        margin: auto;
     }
 }
 
