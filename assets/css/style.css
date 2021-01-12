@@ -191,6 +191,10 @@ label {
         padding: 1rem 1rem;
         margin: 16rem;
     }
+    .carousel {
+        margin: 6rem;
+        width: 100%;
+    }
 }
 
 @media (min-width: 940px) {
