@@ -199,6 +199,14 @@ label {
     .carousel img {
         margin: auto;
     }
+    #mario {
+        margin-top: -80px;
+        margin-right: 3rem;
+    }
+    #mushroom {
+        margin-top: -50px;
+        margin-right: 1.8rem;
+    }
 }
 
 @media (min-width: 940px) {
@@ -218,6 +226,14 @@ label {
     }
     .carousel img {
         height: 18rem;
+    }
+    #mario {
+        margin-top: -100px;
+        margin-right: 3rem;
+    }
+    #mushroom {
+        margin-top: -70px;
+        margin-right: 1.8rem;
     }
 }
 
