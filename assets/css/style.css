@@ -67,7 +67,7 @@ button:focus {
 
 .diagonal-box {
     background-color: #E4001F;
-    height: 5rem;
+    height: 6rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
     transform: skewY(-11deg);
@@ -180,5 +180,14 @@ label {
     }
     #bullet {
         margin-top: -90px;
+    }
+}
+
+@media (min-width: 940px) {
+    .diagonal-box {
+        margin-top: 6rem;
+    }
+    #bullet {
+        margin-top: -120px;
     }
 }
