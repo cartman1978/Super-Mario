@@ -158,29 +158,6 @@ hr {
 
 /* Product */
 
-.product, .funny {
-    text-align: center;
-}
-
-#merchandising {
-    border-radius: 30px;
-    width: 100%;
-    min-height: 350px;
-    max-height: 500px;
-}
-
-.funny>img {
-    border-radius: 20px;
-}
-
-.product-column {
-    /* padding: 3.3rem; */
-}
-
-.product-column {
-    padding: 3% 2%;
-}
-
 /* Form */
 
 .form-img {
@@ -323,13 +300,6 @@ label {
     #mushroom {
         margin-top: -100px;
         margin-right: -33rem;
-    }
-    #merchandising {
-        width: 43%;
-    }
-    #btn-merch {
-        display: block;
-        margin-left: 26rem;
     }
     .card {
         width: 53%;
