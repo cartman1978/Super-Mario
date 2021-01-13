@@ -315,7 +315,6 @@ label {
         margin-right: -33rem;
     }
     .card {
-        width: 53%;
         margin: 8rem;
         column-gap: 5px;
     }
@@ -324,6 +323,9 @@ label {
     }
     #row {
         margin-top: -280px;
+    }
+    form {
+        padding: 6rem;
     }
 }
 
