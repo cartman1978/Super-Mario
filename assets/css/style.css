@@ -307,6 +307,10 @@ label {
 }
 
 @media (min-width: 1280px) {
+    .display-4 {
+        font-size: x-large;
+        margin-top: -1rem;
+    }
     .jumbotron {
         padding: 0.1rem;
     }
