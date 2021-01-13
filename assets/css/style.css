@@ -177,6 +177,10 @@ hr {
     /* padding: 3.3rem; */
 }
 
+.product-column {
+    padding: 3% 2%;
+}
+
 /* Form */
 
 .form-img {
@@ -326,6 +330,13 @@ label {
     #btn-merch {
         display: block;
         margin-left: 26rem;
+    }
+    .card {
+        width: 53%;
+        margin: 8rem;
+    }
+    .product-column {
+        padding: 3% 2%;
     }
 }
 
