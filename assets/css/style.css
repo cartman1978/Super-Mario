@@ -334,6 +334,7 @@ label {
     .card {
         width: 53%;
         margin: 8rem;
+        column-gap: 5px;
     }
     .product-column {
         padding: 3% 2%;
