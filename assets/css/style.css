@@ -189,8 +189,10 @@ label {
     margin-bottom: 3rem;
 }
 
+/* Footer Social Icons */
+
 .fa-facebook, .fa-instagram, .fa-twitter, .fa-linkedin, .fa-youtube {
-    color: crimson;
+    color: #E4001F;
 }
 
 /* Media Queries */
