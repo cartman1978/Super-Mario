@@ -37,6 +37,10 @@ button:focus {
     font-size: 1.3rem;
 }
 
+.navbar-nav li a:hover {
+    color: #B7F817 !important;
+}
+
 .hero {
     position: relative;
 }
