@@ -45,6 +45,7 @@ button:focus {
     margin: 1rem;
     border-radius: 1.2rem;
     background: rgba(238, 227, 227, 0.8);
+    opacity: 0.8;
     justify-content: center;
 }
 
@@ -54,8 +55,9 @@ button:focus {
     text-align: center;
 }
 
-.lead {
+.main_p {
     font-size: 15px;
+    font-weight: bold;
 }
 
 .hero .hero-img {
