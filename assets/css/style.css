@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200&display=swap');
 html, body {
     max-width: 100%;
     overflow-x: hidden;
@@ -5,6 +6,7 @@ html, body {
     padding: 0;
     background-color: whitesmoke;
     overflow-x: hidden;
+    font-family: 'Fira Sans', sans-serif;
 }
 
 .navbar {
@@ -57,7 +59,7 @@ button:focus {
 
 .main_p {
     font-size: 15px;
-    font-weight: bold;
+    font-weight: 500;
 }
 
 .hero .hero-img {
@@ -100,7 +102,7 @@ button:focus {
 h2 {
     transform: skewY(-11deg);
     color: white;
-    font-weight: bold;
+    font-weight: 500;
 }
 
 /* Carousel */
@@ -117,6 +119,8 @@ h2 {
 
 p {
     text-align: left;
+    font-weight: 400;
+    font-size: 1.2rem;
 }
 
 #mario-des {
