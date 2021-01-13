@@ -158,6 +158,11 @@ hr {
 
 /* Product */
 
+.card {
+    -webkit-box-shadow: 5px 6px 5px -1px rgba(0, 0, 0, 0.95);
+    box-shadow: 5px 6px 5px -1px rgba(0, 0, 0, 0.95);
+}
+
 .card-img-top, .card {
     border-radius: 30px;
 }
