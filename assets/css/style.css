@@ -173,6 +173,10 @@ hr {
     border-radius: 20px;
 }
 
+.product-column {
+    /* padding: 3.3rem; */
+}
+
 /* Form */
 
 .form-img {
@@ -210,6 +214,9 @@ label {
 }
 
 @media (min-width: 640px) {
+    .product-column {
+        padding: 2rem;
+    }
     .jumbotron {
         top: 98px;
         right: -210px;
@@ -275,7 +282,6 @@ label {
         margin-top: -120px;
     }
     .carousel {
-        /* margin: 7.5rem; */
         float: right;
         top: -140px;
     }
@@ -293,6 +299,9 @@ label {
 }
 
 @media (min-width: 1280px) {
+    .jumbotron {
+        padding: 0.1rem;
+    }
     .diagonal-box {
         margin-top: 12rem;
     }
