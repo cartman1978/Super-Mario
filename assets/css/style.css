@@ -158,6 +158,14 @@ hr {
 
 /* Product */
 
+.card-img-top, .card {
+    border-radius: 30px;
+}
+
+.product-column {
+    padding: 3% 2%;
+}
+
 /* Form */
 
 .form-img {
@@ -308,6 +316,9 @@ label {
     }
     .product-column {
         padding: 3% 2%;
+    }
+    #row {
+        margin-top: -280px;
     }
 }
 
