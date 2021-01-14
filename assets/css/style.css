@@ -198,7 +198,15 @@ label {
     margin-bottom: 3rem;
 }
 
-/* Footer Social Icons */
+.fa-envelope-square {
+    color: #E4001F;
+}
+
+/* Footer  */
+
+footer {
+    background-color: #AEAEB5;
+}
 
 .fa-facebook, .fa-instagram, .fa-twitter, .fa-linkedin, .fa-youtube {
     color: #E4001F;
