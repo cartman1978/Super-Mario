@@ -94,6 +94,10 @@ button:focus {
     transform: skewY(-11deg);
 }
 
+#mario-des {
+    /* padding: 10rem; */
+}
+
 .vgames {
     width: 100%;
     margin: 0 auto;
