@@ -1,4 +1,4 @@
-## The Evolution of Gaming: Nintendo 8 bit
+## Super Mario the Nintendo Icon
 
 ### Super Mario Helped Nintendo Conquer the Video Game World
 
