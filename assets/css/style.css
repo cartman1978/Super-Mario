@@ -225,6 +225,12 @@ footer {
 
 /* Media Queries */
 
+@media (max-width: 470px) {
+    p {
+        font-size: 15px;
+    }
+}
+
 @media (min-width: 470px) {
     .diagonal-box {
         margin-top: 6rem;
