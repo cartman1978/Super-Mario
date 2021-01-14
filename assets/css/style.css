@@ -200,7 +200,7 @@ label {
     margin-bottom: 3rem;
 }
 
-.fa-envelope-square {
+.fa-envelope-square, .fa-comment-dots, .fa-user {
     color: #E4001F;
 }
 
