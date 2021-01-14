@@ -279,6 +279,7 @@ footer {
     .carousel {
         float: right;
         top: -130px;
+        margin-top: 18rem;
     }
     .diagonal-box-2 {
         margin-top: 8rem;
