@@ -131,7 +131,7 @@ h2 {
 p {
     text-align: left;
     font-weight: 400;
-    font-size: 1.2rem;
+    font-size: 1rem;
 }
 
 #mario-des {
@@ -337,6 +337,9 @@ footer {
     .carousel img {
         height: 18rem;
     }
+    .description {
+        margin-left: 10rem;
+    }
     #mario {
         margin-top: -100px;
         margin-right: -400px;
@@ -367,6 +370,7 @@ footer {
     .description {
         margin-top: -7rem;
         padding: 8rem;
+        margin-left: 16rem;
     }
     #mario {
         margin-top: -130px;
@@ -411,5 +415,6 @@ footer {
     }
     .description {
         margin-top: -1rem;
+        margin-left: 23rem;
     }
 }
