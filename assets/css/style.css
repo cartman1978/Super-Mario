@@ -282,9 +282,13 @@ label {
     .diagonal-box {
         margin-top: 8rem;
         margin-bottom: 8rem;
+        -webkit-box-shadow: 0px 8px 12px -2px #000000;
+        box-shadow: 0px 8px 12px -2px #000000;
     }
     .diagonal-box-2 {
         margin-top: 15rem;
+        -webkit-box-shadow: 0px 8px 12px -2px #000000;
+        box-shadow: 0px 8px 12px -2px #000000;
     }
     #bullet {
         margin-top: -120px;
