@@ -302,7 +302,11 @@ footer {
     .jumbotron {
         margin: 8.5rem;
         right: -90px;
-        padding: 4rem;
+        padding: 0.1rem;
+        width: 40%;
+    }
+    .display-4 {
+        margin-top: -3rem;
     }
     .diagonal-box {
         margin-top: 8rem;
@@ -338,11 +342,14 @@ footer {
 
 @media (min-width: 1280px) {
     .display-4 {
-        font-size: x-large;
-        margin-top: -1rem;
+        margin-top: -3rem;
+    }
+    .main_p {
+        padding: -3rem;
     }
     .jumbotron {
         padding: 0.1rem;
+        width: 40%;
     }
     .diagonal-box {
         margin-top: 12rem;
