@@ -320,6 +320,9 @@ footer {
         -webkit-box-shadow: 0px 8px 12px -2px #000000;
         box-shadow: 0px 8px 12px -2px #000000;
     }
+    #cont-video {
+        margin-top: -18rem;
+    }
     #bullet {
         margin-top: -120px;
     }
@@ -401,5 +404,8 @@ footer {
     #mushroom {
         margin-top: -157px;
         margin-right: -53rem;
+    }
+    .description {
+        margin-top: -1rem;
     }
 }
