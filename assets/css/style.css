@@ -202,6 +202,11 @@ label {
     color: #E4001F;
 }
 
+.formbg {
+    background: rgb(0, 0, 0);
+    background: linear-gradient(0deg, rgba(129, 129, 129, 1) 0%, rgba(255, 255, 255, 1) 100%, rgba(46, 42, 42, 1) 100%);
+}
+
 /* Footer  */
 
 footer {
