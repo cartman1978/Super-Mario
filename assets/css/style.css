@@ -372,6 +372,9 @@ footer {
         padding: 8rem;
         margin-left: 16rem;
     }
+    #btn-desc {
+        margin-bottom: 5rem;
+    }
     #mario {
         margin-top: -130px;
         margin-right: -32rem;
