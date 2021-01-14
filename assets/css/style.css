@@ -11,6 +11,8 @@ html, body {
 
 .navbar {
     background-color: #AEAEB5;
+    -webkit-box-shadow: 0px 8px 12px -2px #000000;
+    box-shadow: 0px 8px 12px -2px #000000;
 }
 
 .navbar-toggler {
