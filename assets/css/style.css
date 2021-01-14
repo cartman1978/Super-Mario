@@ -50,7 +50,7 @@ button:focus {
 .jumbotron {
     position: absolute;
     top: 48px;
-    padding: 1rem 1rem;
+    padding: 0.8rem 1rem;
     margin: 1rem;
     border-radius: 1.2rem;
     background: rgba(238, 227, 227, 0.8);
