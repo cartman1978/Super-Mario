@@ -30,7 +30,7 @@ button:focus {
 
 .fa-gamepad {
     color: #E4001F;
-    font-size: 30px;
+    font-size: 40px;
 }
 
 .navbar-nav li a {
@@ -41,6 +41,7 @@ button:focus {
 
 .navbar-nav li a:hover {
     color: #B7F817 !important;
+    transition: 0.7s;
 }
 
 .hero {
@@ -130,7 +131,7 @@ h2 {
 
 p {
     text-align: left;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 1rem;
 }
 
@@ -228,6 +229,9 @@ footer {
 @media (max-width: 470px) {
     p {
         font-size: 15px;
+    }
+    .fa-gamepad {
+        font-size: 25px;
     }
 }
 
