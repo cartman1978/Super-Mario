@@ -389,7 +389,7 @@ footer {
         width: 40%;
     }
     .diagonal-box {
-        margin-top: 12rem;
+        margin-top: 8rem;
     }
     #bullet {
         margin-top: -160px;
@@ -441,6 +441,9 @@ footer {
         margin-left: 85rem;
         position: absolute;
     }
+    .diagonal-box {
+        margin-top: 9rem;
+    }
 }
 
 @media (min-width: 1640px) {
@@ -472,5 +475,8 @@ footer {
     #mushroom {
         margin-top: -160px;
         margin-left: 115rem;
+    }
+    .diagonal-box {
+        margin-top: 11.5rem;
     }
 }
