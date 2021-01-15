@@ -198,7 +198,7 @@ hr {
 /* Form */
 
 form {
-    background-image: url("/assets/images/img_5.jpg");
+    background-image: url("../images/img_5.jpg");
     background-size: cover;
 }
 
