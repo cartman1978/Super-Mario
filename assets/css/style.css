@@ -95,10 +95,6 @@ button:focus {
     transform: skewY(-11deg);
 }
 
-#mario-des {
-    /* padding: 10rem; */
-}
-
 .vgames {
     width: 100%;
     margin: 0 auto;
@@ -120,7 +116,6 @@ h2 {
 .rounded {
     width: 6rem;
     opacity: 0.7;
-    /* margin-bottom: 550px; */
 }
 
 /* Carousel */
