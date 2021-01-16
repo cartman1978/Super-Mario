@@ -10,7 +10,7 @@ html, body {
 }
 
 .navbar {
-    background-color: #AEAEB5;
+    background-color: transparent;
     -webkit-box-shadow: 0px 8px 12px -2px #000000;
     box-shadow: 0px 8px 12px -2px #000000;
 }
@@ -23,8 +23,13 @@ html, body {
 .navbar-brand {
     font-family: 'Caveat', cursive;
     padding: 1rem;
-    font-size: x-large;
+    font-size: 2rem;
     font-weight: bold;
+   
+}
+
+#hat {
+    width: 3rem;
 }
 
 .navbar-toggler-icon {
@@ -35,14 +40,9 @@ button:focus {
     outline: none;
 }
 
-.fa-gamepad {
-    color: #E4001F;
-    font-size: 40px;
-}
-
 .navbar-nav li a {
-    color: #E4001F !important;
-    font-weight: 400;
+    color: #000000 !important;
+    font-weight: 600;
     font-size: 1.3rem;
 }
 
@@ -116,7 +116,7 @@ button:focus {
 
 h2 {
     transform: skewY(-11deg);
-    color: white;
+    color: #ffffff;
     font-weight: 500;
 }
 
