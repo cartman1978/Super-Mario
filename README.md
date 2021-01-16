@@ -39,7 +39,28 @@ ___
 * Have a look to the Mario World and the merchandising.
 * Send email to the site owner to get specific information.
 
-## User Point of View
+## User Story
+| Users      |    
+| -------   
+
+* [ Mark ] User 1
+* [ Rory ] User 2
+* [ Claudio ] User 3
+
+User 1: As a mobile user I need a smooth navigation  through the web page, I want the main information visible once that I click om links.
+ 
+| Acceptance Criteria     |    
+| -------   
+
+Ensure the user1 is able to:
+* See the navigation bar clear;
+* Navigate to each section by click on links;
+* Able to easily read title of the article after link have been clicked.
+
+___
+
+
+
 * As a user what I'm looking for is an attractive webiste where I can spend time and reading interesting information about retro videogames.
 * I want to find information about Nintendo 8 bit and the raise of the 8 bit era.
 * As a user I want to know more about Super Mario Bros, when was created and the evolution of the character.
