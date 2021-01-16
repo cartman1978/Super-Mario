@@ -72,7 +72,7 @@ User 3: As a Super Mario fan I want to see more funny contents about mario and f
 Ensure the user3 is able to:
 * Read content about videogame franchises.
 * Find information about merchandising and being riderect to an online reseller of Super Mario Brand.
-* Able to clink on a button and being redirect to some cool web blog/ page or artiles that talking about funny memes or cool animation.
+* Able to clink on a button and being redirect to some cool web blog/ page or articles that talking about funny memes or cool animation.
 ___
 
 
