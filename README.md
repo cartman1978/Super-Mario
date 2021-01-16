@@ -32,8 +32,7 @@ ___
 ##### When I first thinking of this project the idea was to build a website for the generation X users who enjoyed the NES system and  the library of their videogames but maybe they hanging up the controller. 
 
 ## User Goal
-* Find information about Nintendo 8 bit console.
-* Get information about NES 8 bit videogame library.
+* Find information Super Mario saga.
 * Get to know Super Mario and why is the most popular game ever.
 * Images of Super Mario + funny images from internet artist.
 * Have a look to the Mario World and the merchandising.
