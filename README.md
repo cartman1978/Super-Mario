@@ -57,7 +57,7 @@ Ensure the user1 is able to:
 * Navigate to each section by click on links;
 * Able to easily read title of the article after link has been clicked.
 
-User 2: As a videogamer I want to know more about the creator, the game library and the story of how the game evolved since the first publication.
+User 2: As a millennials videogamer I want to know more about the creator, the game library and the story of how the game evolved since the first publication.
 
 | Acceptance Criteria     |    
 | -------   
@@ -65,8 +65,14 @@ User 2: As a videogamer I want to know more about the creator, the game library 
 Ensure the user2 is able to:
 * Easily find related information on the top of the page;
 * Read a brief introduction of the game main character and how it became so famous;
-* On the same section user can click a video content about all the stories behind Super Mario publicationm, how Mario get new super power and when new characher were added to the series.
+* On the same section user can click a video content about all the stories behind Super Mario publication, how Mario get new super power and when new characher were added to the series.
 
+User 3: As a Super Mario fan I want to see more funny contents about mario and find related  online shop where I can buy articles for my self and family.
+
+Ensure the user3 is able to:
+* Read content about videogame franchises.
+* Find information about merchandising and being riderect to an online reseller of Super Mario Brand.
+* Able to clink on a button and being redirect to some cool web blog/ page or artiles that talking about funny memes or cool animation.
 ___
 
 
