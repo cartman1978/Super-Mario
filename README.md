@@ -47,7 +47,7 @@ ___
 * [ Rory ] User 2
 * [ Claudio ] User 3
 
-User 1: As a mobile user I need a smooth navigation  through the web page, I want the main information visible once that I click om links.
+User 1: As a mobile user I need a smooth navigation  through the web page, I want the main information visible once that I click on links.
  
 | Acceptance Criteria     |    
 | -------   
@@ -55,7 +55,17 @@ User 1: As a mobile user I need a smooth navigation  through the web page, I wan
 Ensure the user1 is able to:
 * See the navigation bar clear;
 * Navigate to each section by click on links;
-* Able to easily read title of the article after link have been clicked.
+* Able to easily read title of the article after link has been clicked.
+
+User 2: As a videogamer I want to know more about the creator, the game library and the story of how the game evolved since the first publication.
+
+| Acceptance Criteria     |    
+| -------   
+
+Ensure the user2 is able to:
+* Easily find related information on the top of the page;
+* Read a brief introduction of the game main character and how it became so famous;
+* On the same section user can click a video content about all the stories behind Super Mario publicationm, how Mario get new super power and when new characher were added to the series.
 
 ___
 
