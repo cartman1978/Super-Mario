@@ -43,7 +43,8 @@ button:focus {
 .navbar-nav li a {
     color: #000000 !important;
     font-weight: 600;
-    font-size: 1.3rem;
+    font-size: 2rem;
+    font-family: 'Caveat', cursive;
 }
 
 .navbar-nav li a:hover {
