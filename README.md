@@ -129,3 +129,13 @@ ___
 
 ### Features that will be implemented in the future:
 * Another Video section.
+___
+## Technologies used
+___
+## Languages
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+## Tools & Libraries
+* [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+* [Font-Awesome](https://fontawesome.com/)
+* [Google fonts](https://fonts.google.com/)
