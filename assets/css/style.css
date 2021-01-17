@@ -444,6 +444,11 @@ footer {
       margin-bottom: 10rem;
      
   }
+  .vgsection {
+      /* margin-left: -20rem;
+     padding: 2rem;
+  } */
+ 
 }
 
 @media (min-width: 1280px) {
