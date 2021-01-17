@@ -116,3 +116,16 @@ Icons used were provided by [Font Awesome](https://fontawesome.com/)
 
 * The body is a combination of #E4001F and #FFF;
 * For the Navbar I actually choose the same grey that Nintendo used #AEAEB5;
+
+## Features
+___
+
+### Features implemented:
+* Resposnsive navigation on all screensizes.
+* Stylish design.
+* Video's.
+* Contact Form.
+* Social media links.
+
+### Features that will be implemented in the future:
+* Another Video section.
