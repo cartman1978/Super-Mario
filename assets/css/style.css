@@ -5,8 +5,9 @@ html, body {
     margin: 0 auto;
     padding: 0;
     background-color: whitesmoke;
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
     font-family: 'Fira Sans', sans-serif;
+    scroll-behavior: smooth;
 }
 
 .navbar {
