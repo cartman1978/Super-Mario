@@ -148,12 +148,18 @@ h2 {
     border: 2px solid black;
 }
 
-.youtube {
+   .youtube {
     overflow: hidden;
     position: relative;
     width:100%;
     margin-top: 3rem;
-}
+   }
+
+    .youtube iframe {
+       border-radius: 2rem;
+       /* height: 100%; */
+       width: 100%;
+   }
 
 
 p {
@@ -195,9 +201,12 @@ p {
     text-align: center;
 }
 
-hr {
-    border: 1px solid black;
-}
+   .youtube {
+    overflow: hidden;
+    position: relative;
+    width:100%;
+    margin-top: 3rem;
+   }
 
 /* Product */
 
@@ -369,12 +378,12 @@ footer {
     position: relative;
     width:100%;
     margin-top: 3rem;
-   }
-   .youtube iframe {
+   } 
+    .youtube iframe {
        border-radius: 2rem;
        height: 100%;
        width: 100%;
-   }
+   } 
    .video-games {
        margin-top: -8rem;
    }
@@ -430,6 +439,10 @@ footer {
     }
      .description {
       margin-bottom: 5rem;
+  }
+  .youtube {
+      margin-bottom: 10rem;
+     
   }
 }
 
