@@ -106,6 +106,9 @@ ___
 ___
 #### I got the first inspiration when I start to design this website from [Nintendo](https://www.nintendo.com/nes-classic/) classics website, I actually try to make a restyling of it with my personal touch, but I wasn't happy enough after the first view, so I decide to make my own design.
 
+### Icons
+Icons used were provided by [Font Awesome](https://fontawesome.com/)
+
 ### Colours
 
 #### I decide to use colours that reminds the user the original NES console.
