@@ -105,6 +105,14 @@ button:focus {
     transform: skewY(-11deg);
 }
 
+.diagonal-box-3 {
+    background-color: #E4001F;
+    height: 6rem;
+    margin-top: 5rem;
+    margin-bottom: 3rem;
+    transform: skewY(-11deg);
+}
+
 .vgames {
     width: 100%;
     margin: 0 auto;
@@ -255,6 +263,9 @@ footer {
       background: rgba(170, 54, 54, 0.8);
       border-radius: 2rem;
   }
+  .description {
+      margin-bottom: 2rem;
+  }
 }
 
 @media (min-width: 470px) {
@@ -267,6 +278,9 @@ footer {
     #bullet {
         margin-top: -90px;
     }
+      .description {
+      margin-bottom: 2rem;
+  }
 }
 
 @media (min-width: 640px) {
@@ -392,6 +406,9 @@ footer {
         margin-left: 60rem;
         position: absolute;
     }
+     .description {
+      margin-bottom: 5rem;
+  }
 }
 
 @media (min-width: 1280px) {
@@ -435,6 +452,7 @@ footer {
     .card {
         margin: 8rem;
         width: 21rem;
+        margin-top: 20rem;
     }
     .product-column {
         padding: 3% 2%;
