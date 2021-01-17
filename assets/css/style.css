@@ -148,6 +148,14 @@ h2 {
     border: 2px solid black;
 }
 
+.youtube {
+    overflow: hidden;
+    position: relative;
+    width:100%;
+    margin-top: 3rem;
+}
+
+
 p {
     text-align: left;
     font-weight: 500;
@@ -356,6 +364,20 @@ footer {
         margin-left: 45rem;
         position: absolute;
     }
+    .youtube {
+    overflow: hidden;
+    position: relative;
+    width:100%;
+    margin-top: 3rem;
+   }
+   .youtube iframe {
+       border-radius: 2rem;
+       height: 100%;
+       width: 100%;
+   }
+   .video-games {
+       margin-top: -8rem;
+   }
 }
 
 @media (min-width: 940px) {
