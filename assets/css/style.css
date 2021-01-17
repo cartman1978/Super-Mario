@@ -455,6 +455,18 @@ footer {
         padding: 8rem;
         margin-left: 16rem;
     }
+
+    .youtube {
+        margin-bottom: 8rem;
+        margin-top: 12rem;
+        height: 15rem;
+    }
+    .carousel {
+        margin-bottom: 5rem;
+    }
+    .vgsection {
+        margin-top: -30rem;
+    }
     #btn-desc {
         margin-bottom: 5rem;
     }
