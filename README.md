@@ -110,6 +110,7 @@ ___
 Icons used were provided by [Font Awesome](https://fontawesome.com/)
 
 ### Colours
+![coloursscheme](assets/images/colurspalette.png)
 
 #### I decide to use colours that reminds the user the original NES console.
 
