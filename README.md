@@ -139,3 +139,20 @@ ___
 * [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
 * [Font-Awesome](https://fontawesome.com/)
 * [Google fonts](https://fonts.google.com/)
+
+## Testing
+___
+Testing HTML with  [HTML Validator](https://validator.w3.org/), first results:
+* Warning
+    * heading section lacks heading
+    * section section lacks heading
+
+* Errors
+    * form action " " cannot be empty
+    * end tag for emelemt /div which is not open
+
+* Fixes
+    * changed heading and section to div
+    * Removed action in the form attribute as no needed for this project
+    * Removed end tag for for the div which was not opened
+
