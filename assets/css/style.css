@@ -479,11 +479,14 @@ footer {
   }
 
   #v-par {
-      margin-left: -5rem;
+      /* margin-left: -5rem; */
+      width: 20rem;
   }
   .carousel {
         float: right;
-        top: -18rem;
+        top: -19rem;
+        margin-left: 2rem;
+        width: 23rem;
     }
     .carousel img {
         height: 18rem;
@@ -609,6 +612,14 @@ footer {
     }
      .brand {
      margin-top: -12.1875rem;
+    }
+    .carousel {
+        width: 33rem;
+        margin-left: 25rem;
+    }
+    #v-par {
+        width: 33rem;
+        margin-left: -8rem;
     }
 }
 
