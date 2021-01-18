@@ -283,6 +283,9 @@ footer {
   .description {
       margin-bottom: 2rem;
   }
+  .youtube iframe {
+      height: 12rem;
+  }
 }
 
 @media (min-width: 470px) {
@@ -297,6 +300,9 @@ footer {
     }
       .description {
       margin-bottom: 2rem;
+  }
+    .youtube iframe {
+      height: 12rem;
   }
 }
 
@@ -377,12 +383,13 @@ footer {
     overflow: hidden;
     position: relative;
     width:100%;
-    margin-top: 3rem;
+    margin-top: -3rem;
    } 
     .youtube iframe {
        border-radius: 2rem;
-       height: 100%;
        width: 100%;
+       margin-bottom: 5rem;
+       height: 12rem;
    } 
    .video-games {
        margin-top: -5rem;
@@ -435,7 +442,8 @@ footer {
       margin-bottom: 5rem;
   }
   .youtube {
-      margin-bottom: 10rem;
+      margin-bottom: 1rem;
+      margin-top: -28rem;
      
   }
   .video-games {
@@ -481,8 +489,8 @@ footer {
 
     .youtube {
         margin-bottom: 8rem;
-        margin-top: 12rem;
-        height: 15rem;
+        margin-top: -42rem;
+       
     }
     .carousel {
         margin-bottom: 5rem;
