@@ -351,7 +351,7 @@ footer {
     }
     .carousel {
         float: right;
-        top: -130px;
+        top: -5rem;
         margin-top: 18rem;
     }
     .diagonal-box-2 {
@@ -385,7 +385,7 @@ footer {
        width: 100%;
    } 
    .video-games {
-       margin-top: -8rem;
+       margin-top: -5rem;
    }
 }
 
@@ -417,13 +417,7 @@ footer {
     #bullet {
         margin-top: -120px;
     }
-    .carousel {
-        float: right;
-        top: -140px;
-    }
-    .carousel img {
-        height: 18rem;
-    }
+    
     .description {
         margin-left: 10rem;
     }
@@ -444,10 +438,21 @@ footer {
       margin-bottom: 10rem;
      
   }
+  .video-games {
+      margin-bottom: 15rem;
+  }
   .vgsection {
-      /* margin-left: -20rem;
-     padding: 2rem;
-  } */
+      margin-top: 15rem;
+      margin-right: 50rem;
+     
+  }
+  .carousel {
+        float: right;
+        top: -21rem;
+    }
+    .carousel img {
+        height: 18rem;
+    }
  
 }
 
@@ -483,7 +488,7 @@ footer {
         margin-bottom: 5rem;
     }
     .vgsection {
-        margin-top: -30rem;
+        margin-top: 10rem;
     }
     #btn-desc {
         margin-bottom: 5rem;
