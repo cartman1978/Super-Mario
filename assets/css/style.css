@@ -349,16 +349,16 @@ footer {
 }
 
 @media (min-width: 768px) {
-    .jumbotron {
+    /* .jumbotron {
         padding: 0.1rem;
-    }
+    } */
     .display-4 {
         margin-top: -3rem;
     }
     .carousel {
         float: right;
         top: -5rem;
-        margin-top: 18rem;
+        margin-top: 14rem;
     }
     .diagonal-box-2 {
         margin-top: -6rem;
@@ -383,7 +383,7 @@ footer {
     overflow: hidden;
     position: relative;
     width:100%;
-    margin-top: -3rem;
+    margin-top: -6rem;
    } 
     .youtube iframe {
        border-radius: 2rem;
@@ -393,6 +393,9 @@ footer {
    } 
    .video-games {
        margin-top: -5rem;
+   }
+   .vgsection {
+       margin-top: 2rem;
    }
 }
 
@@ -443,8 +446,11 @@ footer {
   }
   .youtube {
       margin-bottom: 1rem;
-      margin-top: -28rem;
-     
+      margin-top: -40rem;
+     margin-bottom: -8rem;
+  }
+   .youtube iframe {
+      height: 20rem;
   }
   .video-games {
       margin-bottom: 15rem;
@@ -452,11 +458,14 @@ footer {
   .vgsection {
       margin-top: 15rem;
       margin-right: 50rem;
-     
+  }
+
+  #v-par {
+      margin-right: 1rem;
   }
   .carousel {
         float: right;
-        top: -21rem;
+        top: -18rem;
     }
     .carousel img {
         height: 18rem;
@@ -490,8 +499,16 @@ footer {
     .youtube {
         margin-bottom: 8rem;
         margin-top: -42rem;
-       
     }
+
+      .youtube iframe {
+      height: 25rem;
+     }
+
+      #v-par {
+      margin-right: 3rem;
+  }
+    
     .carousel {
         margin-bottom: 5rem;
     }
@@ -579,4 +596,7 @@ footer {
     .diagonal-box {
         margin-top: 11.5rem;
     }
+     #v-par {
+      margin-right: 8rem;
+  }
 }
