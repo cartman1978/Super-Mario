@@ -459,9 +459,12 @@ footer {
       margin-top: 15rem;
       margin-right: 50rem;
   }
+  h2 {
+      margin-right: 130px;
+  }
 
   #v-par {
-      margin-right: 1rem;
+      margin-left: -10rem;
   }
   .carousel {
         float: right;
