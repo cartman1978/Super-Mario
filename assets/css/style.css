@@ -5,7 +5,6 @@ html, body {
     margin: 0 auto;
     padding: 0;
     background-color: whitesmoke;
-    /* overflow-x: hidden; */
     font-family: 'Fira Sans', sans-serif;
     scroll-behavior: smooth;
 }
@@ -60,7 +59,7 @@ button:focus {
 
 .jumbotron {
     position: absolute;
-    top: 48px;
+    top: 3rem;
     padding: 0.8rem 1rem;
     margin: 1rem;
     border-radius: 1.2rem;
@@ -163,7 +162,6 @@ h2 {
 
     .youtube iframe {
        border-radius: 2rem;
-       /* height: 100%; */
        width: 100%;
    }
 
@@ -207,7 +205,7 @@ p {
     text-align: center;
 }
 
-   .youtube {
+.youtube {
     overflow: hidden;
     position: relative;
     width:100%;
@@ -362,9 +360,6 @@ footer {
 }
 
 @media (min-width: 768px) {
-    /* .jumbotron {
-        padding: 0.1rem;
-    } */
     .display-4 {
         margin-top: -3rem;
     }
@@ -383,12 +378,12 @@ footer {
         margin-top: -10rem;
     }
     #mario {
-        margin-top: -100px;
+        margin-top: -6.25rem;
         margin-left: 42rem;
         position: absolute;
     }
     #mushroom {
-        margin-top: -70px;
+        margin-top: -4.375rem;
         margin-left: 45rem;
         position: absolute;
     }
@@ -438,22 +433,22 @@ footer {
         margin-top: -18rem;
     }
     #bullet {
-        margin-top: -120px;
+        margin-top: -7.5rem;
     }
      .brand {
-     margin-top: -135px;
+     margin-top: -8.4375rem;
     }
     
     .description {
         margin-left: 10rem;
     }
     #mario {
-        margin-top: -120px;
+        margin-top: -7.5rem;
         margin-left: 57rem;
         position: absolute;
     }
     #mushroom {
-        margin-top: -90px;
+        margin-top: -5.625rem;
         margin-left: 60rem;
         position: absolute;
     }
@@ -476,7 +471,8 @@ footer {
       margin-right: 50rem;
   }
   h2 {
-      margin-right: 130px;
+      margin-right: 8.125rem;
+      
   }
 
   #v-par {
@@ -507,7 +503,7 @@ footer {
         margin-top: 8rem;
     }
     #bullet {
-        margin-top: -160px;
+        margin-top: -10rem;
     }
     .description {
         margin-top: -7rem;
@@ -538,17 +534,17 @@ footer {
         margin-bottom: 5rem;
     }
     #mario {
-        margin-top: -130px;
+        margin-top: -8.125rem;
         margin-left: 72rem;
         position: absolute;
     }
     #mushroom {
-        margin-top: -100px;
+        margin-top: -6.25rem;
         margin-left: 75rem;
         position: absolute;
     }
     .brand {
-     margin-top: -155px;
+     margin-top: -9.6875rem;
     }
     
     #cont-video {
@@ -572,12 +568,12 @@ footer {
 
 @media (min-width: 1440px) {
     #mario {
-        margin-top: -150px;
+        margin-top: -9.375rem;
         margin-left: 82rem;
         position: absolute;
     }
     #mushroom {
-        margin-top: -120px;
+        margin-top: -7.5rem;
         margin-left: 85rem;
         position: absolute;
     }
@@ -594,14 +590,14 @@ footer {
         margin-top: 15rem;
     }
     #bullet {
-        margin-top: -200px;
+        margin-top: -12.5rem;
     }
     #mario {
-        margin-top: -185px;
+        margin-top: -11.5625rem;
         margin-left: 97rem;
     }
     #mushroom {
-        margin-top: -157px;
+        margin-top: -9.8125rem;
         margin-left: 100rem;
     }
     .description {
@@ -609,24 +605,24 @@ footer {
         margin-left: 23rem;
     }
      .brand {
-     margin-top: -195px;
+     margin-top: -12.1875rem;
     }
 }
 
 @media (min-width: 1800px) {
     #mario {
-        margin-top: -185px;
+        margin-top: -11.5625rem;
         margin-left: 112rem;
     }
     #mushroom {
-        margin-top: -160px;
+        margin-top: -10rem;
         margin-left: 115rem;
     }
     .diagonal-box {
         margin-top: 11.5rem;
     }
      .brand {
-     margin-top: -215px;
+     margin-top: -13.5rem;
     }
      #v-par {
       margin-right: 8rem;
