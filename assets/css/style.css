@@ -1,11 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=Red+Hat+Display:wght@400;500;700;900&display=swap');
+
 html, body {
     max-width: 100%;
     overflow-x: hidden;
     margin: 0 auto;
     padding: 0;
     background-color: whitesmoke;
-    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Red Hat Display', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
     scroll-behavior: smooth;
 }
 
@@ -493,7 +496,7 @@ footer {
         margin-top: -3rem;
     }
     .main_p {
-        padding: 3rem;
+        padding: -3rem;
     }
     .jumbotron {
         padding: 0.1rem;
