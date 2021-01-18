@@ -156,3 +156,20 @@ Testing HTML with  [HTML Validator](https://validator.w3.org/), first results:
     * Removed action in the form attribute as no needed for this project
     * Removed end tag for for the div which was not opened
 
+Testing CSS with [CSS Validator](https://jigsaw.w3.org/css-validator/), no errors found.
+
+#### Responsiveness
+* Bootstrap implemented throughout the project to ensure mobile first responsive and   tested with devtools and Lambdatest.
+
+* **Result** was successfull and as to be expected.
+
+#### Design
+* **Implementation** got inspiration from the official Mario website of Nintendo but not following any particular pattern, I decide to use diagonal separator for each section and using fonts and images that reminds me the game also to give sense of familiarity for those who knows the game.
+
+* **Results** I'm quite happy as I made something original but consistent with the videogame character.
+
+### Contact Form
+* **Implementation** I got the contact form from the Bootstrap site and made few changes to meet my needs, Form validation was implemented to ensure that user put values to any field before sending the email.
+
+* **Results** Contact form works as expected.
+* **Verdict** Validation works, test passed.
