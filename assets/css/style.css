@@ -394,6 +394,9 @@ footer {
    .vgsection {
        margin-top: 2rem;
    }
+   .test {
+       margin-top: -6rem;
+   }
 }
 
 @media (min-width: 940px) {
