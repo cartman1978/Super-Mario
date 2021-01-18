@@ -175,10 +175,6 @@ p {
     font-size: 1rem;
 }
 
-#mario-des {
-    clear: both;
-}
-
 .btn {
     background-color: #E4001F;
     font-weight: bold;
@@ -202,10 +198,6 @@ p {
     float: right;
     margin-top: -30px;
     margin-right: 1.8rem;
-}
-
-.description {
-    text-align: center;
 }
 
 .youtube {
@@ -287,9 +279,7 @@ footer {
       background: rgba(170, 54, 54, 0.8);
       border-radius: 2rem;
   }
-  .description {
-      margin-bottom: 2rem;
-  }
+
   .youtube iframe {
       height: 12rem;
   }
@@ -305,9 +295,7 @@ footer {
     #bullet {
         margin-top: -90px;
     }
-      .description {
-      margin-bottom: 2rem;
-  }
+   
     .youtube iframe {
       height: 12rem;
   }
@@ -351,9 +339,7 @@ footer {
         margin-top: -50px;
         margin-right: -18.8rem;
     }
-    .description {
-        margin-top: 2rem;
-    }
+   
     .product {
         float: right;
     }
@@ -442,9 +428,7 @@ footer {
      margin-top: -8.4375rem;
     }
     
-    .description {
-        margin-left: 10rem;
-    }
+  
     #mario {
         margin-top: -7.5rem;
         margin-left: 57rem;
@@ -455,9 +439,7 @@ footer {
         margin-left: 60rem;
         position: absolute;
     }
-     .description {
-      margin-bottom: 5rem;
-  }
+ 
   .youtube {
       margin-bottom: 1rem;
       margin-top: -40rem;
@@ -511,12 +493,7 @@ footer {
     #bullet {
         margin-top: -10rem;
     }
-    .description {
-        margin-top: -7rem;
-        padding: 8rem;
-        margin-left: 16rem;
-    }
-
+  
     .youtube {
         margin-bottom: 8rem;
         margin-top: -42rem;
@@ -606,11 +583,8 @@ footer {
         margin-top: -9.8125rem;
         margin-left: 100rem;
     }
-    .description {
-        margin-top: -1rem;
-        margin-left: 23rem;
-    }
-     .brand {
+   
+    .brand {
      margin-top: -12.1875rem;
     }
     .carousel {
