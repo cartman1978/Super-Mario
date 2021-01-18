@@ -125,6 +125,12 @@ button:focus {
     margin-top: -60px;
 }
 
+.brand {
+     width: 45px;
+    float: right;
+    margin-top: -65px;
+}
+
 h2 {
     transform: skewY(-11deg);
     color: #ffffff;
@@ -333,6 +339,13 @@ footer {
         margin-top: -80px;
         margin-right: -18rem;
     }
+    .brand {
+     margin-top: -105px;
+    }
+    #brand  {
+         margin-top: -80px;
+        margin-right: -18rem;
+    }
     #mushroom {
         margin-top: -50px;
         margin-right: -18.8rem;
@@ -426,6 +439,9 @@ footer {
     }
     #bullet {
         margin-top: -120px;
+    }
+     .brand {
+     margin-top: -135px;
     }
     
     .description {
@@ -531,6 +547,10 @@ footer {
         margin-left: 75rem;
         position: absolute;
     }
+    .brand {
+     margin-top: -155px;
+    }
+    
     #cont-video {
         margin-top: -18rem;
     }
@@ -564,6 +584,9 @@ footer {
     .diagonal-box {
         margin-top: 9rem;
     }
+     .brand {
+     margin-top: -168px;
+    }
 }
 
 @media (min-width: 1640px) {
@@ -585,6 +608,9 @@ footer {
         margin-top: -1rem;
         margin-left: 23rem;
     }
+     .brand {
+     margin-top: -195px;
+    }
 }
 
 @media (min-width: 1800px) {
@@ -598,6 +624,9 @@ footer {
     }
     .diagonal-box {
         margin-top: 11.5rem;
+    }
+     .brand {
+     margin-top: -215px;
     }
      #v-par {
       margin-right: 8rem;
