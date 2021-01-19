@@ -89,6 +89,23 @@ button:focus {
     max-height: 44rem;
 }
 
+.ytube {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+}
+
+.responsive-iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 50%;
+  height: 40%;
+  border: none;
+}
 
 /* Diagonal box-1 */
 
@@ -326,6 +343,10 @@ footer {
     .p-frame {
         margin-top: -5rem;
     }
+    .embed-responsive {
+        width: 50%;
+        margin-bottom: 5rem;
+    }
     iframe {
        margin-bottom: 5rem; 
       
@@ -381,9 +402,7 @@ footer {
         -webkit-box-shadow: 0px 8px 12px -2px #000000;
         box-shadow: 0px 8px 12px -2px #000000;
     }
-    #cont-video {
-        margin-top: -18rem;
-    }
+
     #bullet {
         margin-top: -7.5rem;
     }
@@ -424,6 +443,13 @@ footer {
       
         margin-left: 1rem;
         width: 25rem;
+    }
+
+       .embed-responsive {
+        width: 100%;
+        margin-bottom: 15rem;
+        margin-top: 13rem;
+        overflow: visible;
     }
 
     .videog {
