@@ -161,7 +161,7 @@ h2 {
 
 p {
     text-align: left;
-    font-weight: 500;
+    font-weight: 400;
     font-size: 1rem;
 }
 
@@ -294,8 +294,8 @@ footer {
         margin-top: 5rem;
     }
     .carousel {
-        float: right;
-        top: -30px;
+    
+        top: -3rem;
     }
     #v-par {
         margin-top: 50px;
@@ -321,7 +321,10 @@ footer {
     .videog {
         
         height: 50vh;
-       
+    }
+
+    .p-frame {
+        margin-top: -5rem;
     }
     iframe {
        margin-bottom: 5rem; 
@@ -353,9 +356,7 @@ footer {
    .vgsection {
        margin-top: 2rem;
    }
-   .test {
-       margin-top: -6rem;
-   }
+  
 }
 
 @media (min-width: 940px) {
@@ -422,6 +423,7 @@ footer {
   .carousel {
       
         margin-left: 1rem;
+        width: 25rem;
     }
 
     .videog {
@@ -433,6 +435,7 @@ footer {
     .p-game {
         margin-top: 4rem;
     }
+   
     iframe {
         margin-top: -12rem;
         margin-bottom: 16rem;
