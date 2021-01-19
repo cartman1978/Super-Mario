@@ -321,10 +321,7 @@ footer {
         margin-top: 50px;
     }
   
-    #mario {
-        margin-top: -80px;
-        margin-right: -18rem;
-    }
+  
     .brand {
      margin-top: -105px;
     }
@@ -332,11 +329,7 @@ footer {
          margin-top: -80px;
         margin-right: -18rem;
     }
-    #mushroom {
-        margin-top: -50px;
-        margin-right: -18.8rem;
-    }
-   
+
     .product {
         float: right;
     }
@@ -369,12 +362,12 @@ footer {
     }
     #mario {
         margin-top: -6.25rem;
-        margin-left: 42rem;
+        margin-left: 38rem;
         position: absolute;
     }
     #mushroom {
         margin-top: -4.375rem;
-        margin-left: 45rem;
+        margin-left: 41rem;
         position: absolute;
     }
     .youtube {
@@ -435,12 +428,12 @@ footer {
   
     #mario {
         margin-top: -7.5rem;
-        margin-left: 57rem;
+        margin-left: 53rem;
         position: absolute;
     }
     #mushroom {
         margin-top: -5.625rem;
-        margin-left: 60rem;
+        margin-left: 56rem;
         position: absolute;
     }
  
@@ -515,6 +508,10 @@ footer {
       height: 25rem;
      }
 
+     iframe {
+         margin-top: 2rem;
+     }
+      
       #v-par {
       margin-right: 3rem;
   }
@@ -528,12 +525,12 @@ footer {
     }
     #mario {
         margin-top: -8.125rem;
-        margin-left: 72rem;
+        margin-left: 66rem;
         position: absolute;
     }
     #mushroom {
         margin-top: -6.25rem;
-        margin-left: 75rem;
+        margin-left: 69rem;
         position: absolute;
     }
     .brand {
@@ -562,12 +559,12 @@ footer {
 @media (min-width: 1440px) {
     #mario {
         margin-top: -9.375rem;
-        margin-left: 82rem;
+        margin-left: 76rem;
         position: absolute;
     }
     #mushroom {
         margin-top: -7.5rem;
-        margin-left: 85rem;
+        margin-left: 79rem;
         position: absolute;
     }
     .diagonal-box {
@@ -586,12 +583,12 @@ footer {
         margin-top: -12.5rem;
     }
     #mario {
-        margin-top: -11.5625rem;
-        margin-left: 97rem;
+        
+        margin-left: 92rem;
     }
     #mushroom {
-        margin-top: -9.8125rem;
-        margin-left: 100rem;
+        margin-top: -8rem;
+        margin-left: 95rem;
     }
    
     .brand {
@@ -606,12 +603,12 @@ footer {
 
 @media (min-width: 1800px) {
     #mario {
-        margin-top: -11.5625rem;
-        margin-left: 112rem;
+        margin-top: -11rem;
+        margin-left: 104rem;
     }
     #mushroom {
-        margin-top: -10rem;
-        margin-left: 115rem;
+        margin-top: -9.5rem;
+        margin-left: 107rem;
     }
     .diagonal-box {
         margin-top: 11.5rem;
