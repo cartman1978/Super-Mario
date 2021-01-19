@@ -187,9 +187,7 @@ p {
     font-weight: bold;
 }
 
-.vgames-info {
-    text-align: center;
-}
+
 
 /* Diagonal box-2 */
 
@@ -265,9 +263,7 @@ footer {
     p {
         font-size: 15px;
     }
-    .fa-gamepad {
-        font-size: 25px;
-    }
+  
     .navbar-brand {
         font-size: 1.6rem;
     }
@@ -314,10 +310,7 @@ footer {
     
         top: -3rem;
     }
-    #v-par {
-        margin-top: 50px;
-    }
-  
+   
     .brand {
      margin-top: -105px;
     }
@@ -357,9 +350,7 @@ footer {
     .fa-facebook, .fa-instagram, .fa-twitter, .fa-linkedin, .fa-youtube {
         font-size: 30px;
     }
-    #cont-video {
-        margin-top: -10rem;
-    }
+ 
     #mario {
         margin-top: -6.25rem;
         margin-left: 38rem;
@@ -370,13 +361,6 @@ footer {
         margin-left: 41rem;
         position: absolute;
     }
-
-   .video-games {
-       margin-top: -5rem;
-   }
-   .vgsection {
-       margin-top: 2rem;
-   }
   
 }
 
@@ -422,23 +406,11 @@ footer {
         position: absolute;
     }
  
- 
-  .video-games {
-      margin-bottom: 15rem;
-  }
-  .vgsection {
-      margin-top: 15rem;
-      margin-right: 50rem;
-  }
   h2 {
-      margin-right: 8.125rem;
+      margin-right: 8rem;
       
   }
 
-  #v-par {
-    
-      width: 20rem;
-  }
   .carousel {
       
         margin-left: 1rem;
@@ -496,14 +468,7 @@ footer {
          margin-top: 2rem;
      }
       
-      #v-par {
-      margin-right: 3rem;
-  }
-    
-  
-    .vgsection {
-        margin-top: 10rem;
-    }
+
     #btn-desc {
         margin-bottom: 5rem;
     }
@@ -521,9 +486,6 @@ footer {
      margin-top: -9.6875rem;
     }
     
-    #cont-video {
-        margin-top: -18rem;
-    }
     .card {
         margin: 8rem;
         width: 21rem;
@@ -591,11 +553,7 @@ footer {
     .brand {
      margin-top: -12.1875rem;
     }
-  
-    #v-par {
-        width: 33rem;
-        margin-left: -8rem;
-    }
+   
 }
 
 @media (min-width: 1800px) {
@@ -613,9 +571,7 @@ footer {
      .brand {
      margin-top: -13.5rem;
     }
-     #v-par {
-      margin-right: 8rem;
-  }
+  
     .embed-responsive {
       
         margin-bottom: 15rem;
