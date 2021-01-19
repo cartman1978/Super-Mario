@@ -187,3 +187,15 @@ When deploying The origins of Super Mario, the following steps were made:
 * Scrolled down to GitHub pages.
 * Selected **Master-Branch** from the drop-down menu.
 * The Origins of Super Mario is now live on GitHub Pages.
+
+## Credits
+___
+* [Article](https://www.bbc.com/news/newsbeat-54163659) by Christian Hewgill.
+* [Article](https://www.popmatters.com/141240-the-retirement-of-a-gen-x-gamer-or-my-8-bit-childhood-2496029806.html) by Clay Morgan.
+
+### Images used
+* [Pinterest](https://www.pinterest.ie/)
+* [IconArchive](https://iconarchive.com/)
+
+### Special Thanks
+* To my great mentor [Simen Daehlin](https://github.com/Eventyret)
