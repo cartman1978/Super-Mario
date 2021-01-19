@@ -89,6 +89,7 @@ button:focus {
     max-height: 44rem;
 }
 
+
 /* Diagonal box-1 */
 
 .diagonal-box {
@@ -146,9 +147,7 @@ h2 {
 
 /* Carousel */
 
-.carousel {
-    margin-top: 2rem;
-}
+
 
 .carousel img {
     border-radius: 30px;
@@ -321,9 +320,7 @@ footer {
     #v-par {
         margin-top: 50px;
     }
-    .carousel img {
-        margin: auto;
-    }
+  
     #mario {
         margin-top: -80px;
         margin-right: -18rem;
@@ -352,10 +349,14 @@ footer {
     .display-4 {
         margin-top: -3rem;
     }
-    .carousel {
-        float: right;
-        top: -5rem;
-        margin-top: 14rem;
+ 
+    .videog {
+        
+        height: 50vh;
+       
+    }
+    iframe {
+       margin-bottom: 5rem; 
     }
     .diagonal-box-2 {
         margin-top: -6rem;
@@ -464,18 +465,28 @@ footer {
   }
 
   #v-par {
-      /* margin-left: -5rem; */
+    
       width: 20rem;
   }
   .carousel {
-        float: right;
-        top: -19rem;
-        margin-left: 2rem;
-        width: 23rem;
+      
+        margin-left: 1rem;
     }
-    .carousel img {
-        height: 18rem;
+
+    .videog {
+        margin-left: -12rem;
+        height: 50vh;
+        margin-top: 6rem;
     }
+
+    .p-game {
+        margin-top: 4rem;
+    }
+    iframe {
+        margin-top: -12rem;
+        margin-bottom: 16rem;
+    }
+   
  
 }
 
@@ -508,9 +519,7 @@ footer {
       margin-right: 3rem;
   }
     
-    .carousel {
-        margin-bottom: 5rem;
-    }
+  
     .vgsection {
         margin-top: 10rem;
     }
@@ -588,10 +597,7 @@ footer {
     .brand {
      margin-top: -12.1875rem;
     }
-    .carousel {
-        width: 33rem;
-        margin-left: 25rem;
-    }
+  
     #v-par {
         width: 33rem;
         margin-left: -8rem;
