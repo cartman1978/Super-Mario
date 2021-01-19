@@ -173,3 +173,12 @@ Testing CSS with [CSS Validator](https://jigsaw.w3.org/css-validator/), no error
 
 * **Results** Contact form works as expected.
 * **Verdict** Validation works, test passed.
+
+## Deployment
+___
+The Origins of Super mario was developed on **GitPod** and host the repository.
+
+When deploying The origins of Super Mario, the following steps were made:
+
+* **GitHub** opened in the broser
+* Sign in  using username and password
