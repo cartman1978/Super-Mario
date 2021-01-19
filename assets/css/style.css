@@ -122,6 +122,10 @@ button:focus {
     transform: skewY(11deg);
 }
 
+iframe {
+    border-radius: 2rem;
+}
+
 #bullet {
     width: 65px;
     float: right;
@@ -155,19 +159,6 @@ h2 {
     border: 2px solid black;
 }
 
-   .youtube {
-    overflow: hidden;
-    position: relative;
-    width:100%;
-    margin-top: 3rem;
-   }
-
-    .youtube iframe {
-       border-radius: 2rem;
-       width: 100%;
-   }
-
-
 p {
     text-align: left;
     font-weight: 500;
@@ -198,13 +189,6 @@ p {
     margin-top: -30px;
     margin-right: 1.8rem;
 }
-
-.youtube {
-    overflow: hidden;
-    position: relative;
-    width:100%;
-    margin-top: 3rem;
-   }
 
 /* Product */
 
@@ -279,9 +263,7 @@ footer {
       border-radius: 2rem;
   }
 
-  .youtube iframe {
-      height: 12rem;
-  }
+ 
 }
 
 @media (min-width: 470px) {
@@ -295,9 +277,7 @@ footer {
         margin-top: -90px;
     }
    
-    .youtube iframe {
-      height: 12rem;
-  }
+
 }
 
 @media (min-width: 640px) {
@@ -321,15 +301,10 @@ footer {
         margin-top: 50px;
     }
   
-  
     .brand {
      margin-top: -105px;
     }
-    #brand  {
-         margin-top: -80px;
-        margin-right: -18rem;
-    }
-
+ 
     .product {
         float: right;
     }
@@ -350,6 +325,7 @@ footer {
     }
     iframe {
        margin-bottom: 5rem; 
+      
     }
     .diagonal-box-2 {
         margin-top: -6rem;
@@ -370,18 +346,7 @@ footer {
         margin-left: 41rem;
         position: absolute;
     }
-    .youtube {
-    overflow: hidden;
-    position: relative;
-    width:100%;
-    margin-top: -6rem;
-   } 
-    .youtube iframe {
-       border-radius: 2rem;
-       width: 100%;
-       margin-bottom: 5rem;
-       height: 12rem;
-   } 
+
    .video-games {
        margin-top: -5rem;
    }
@@ -437,14 +402,7 @@ footer {
         position: absolute;
     }
  
-  .youtube {
-      margin-bottom: 1rem;
-      margin-top: -40rem;
-     margin-bottom: -8rem;
-  }
-   .youtube iframe {
-      height: 20rem;
-  }
+ 
   .video-games {
       margin-bottom: 15rem;
   }
@@ -499,15 +457,6 @@ footer {
         margin-top: -10rem;
     }
   
-    .youtube {
-        margin-bottom: 8rem;
-        margin-top: -42rem;
-    }
-
-      .youtube iframe {
-      height: 25rem;
-     }
-
      iframe {
          margin-top: 2rem;
      }
