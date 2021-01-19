@@ -192,6 +192,7 @@ When deploying The origins of Super Mario, the following steps were made:
 ___
 * [Article](https://www.bbc.com/news/newsbeat-54163659) by Christian Hewgill.
 * [Article](https://www.popmatters.com/141240-the-retirement-of-a-gen-x-gamer-or-my-8-bit-childhood-2496029806.html) by Clay Morgan.
+* [Article](https://ultimateclassicrock.com/super-mario-bros-history/)
 
 ### Images used
 * [Pinterest](https://www.pinterest.ie/)
