@@ -180,5 +180,10 @@ The Origins of Super mario was developed on **GitPod** and host the repository.
 
 When deploying The origins of Super Mario, the following steps were made:
 
-* **GitHub** opened in the broser
-* Sign in  using username and password
+* **GitHub** opened in the broser.
+* Sign in  using username and password.
+* Selected my repositories.
+* Clicked **Settings** on the top navigation.
+* Scrolled down to GitHub pages.
+* Selected **Master-Branch** from the drop-down menu.
+* The Origins of Super Mario is now live on GitHub Pages.
