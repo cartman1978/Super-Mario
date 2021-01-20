@@ -20,7 +20,7 @@ html, body {
 }
 
 .navbar.scrolled {
-    background: #B7F817;
+    background: rgb(107,136,254);
 }
 
 .navbar-toggler {
