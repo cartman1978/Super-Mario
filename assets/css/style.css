@@ -20,6 +20,23 @@ html, body {
     box-shadow: 0px 8px 12px -2px #000000;
 }
 
+.close-icon {
+    color:#E4001F;
+   
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active {
+    outline: 0;
+}
+
+.navbar-toggler.collapsed .close-icon {
+    display: none;
+}
+
+.navbar-toggler:not(.collapsed) .navbar-toggler-icon {
+    display: inline;
+}
 .navbar.scrolled {
     background: rgb(107,136,254);
 }
