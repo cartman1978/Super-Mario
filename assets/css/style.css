@@ -1,16 +1,23 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=Red+Hat+Display:wght@400;500;700;900&display=swap');
+html {
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
 
-html, body {
+body {
     max-width: 100%;
     overflow-x: hidden;
     margin: 0 auto;
     padding: 0;
     background-image: linear-gradient(to right, #000000, #141110, #201c19, #2a2721, #31342b);
-
     font-family: 'Red Hat Display', sans-serif;
     font-weight: 400;
     font-size: 17px;
     scroll-behavior: smooth;
+}
+
+#img-about {
+    object-fit: scale-down;
 }
 
 .navbar {
@@ -21,12 +28,10 @@ html, body {
 }
 
 .close-icon {
-    color:#E4001F;
-   
+    color: #E4001F;
 }
 
-.navbar-toggler:focus,
-.navbar-toggler:active {
+.navbar-toggler:focus, .navbar-toggler:active {
     outline: 0;
 }
 
@@ -37,8 +42,9 @@ html, body {
 .navbar-toggler:not(.collapsed) .navbar-toggler-icon {
     display: inline;
 }
+
 .navbar.scrolled {
-    background: rgb(107,136,254);
+    background: rgb(107, 136, 254);
 }
 
 .navbar-toggler {
@@ -51,7 +57,6 @@ html, body {
     padding: 1rem;
     font-size: 2rem;
     font-weight: 700;
-   
 }
 
 #hat {
@@ -67,7 +72,7 @@ button:focus {
 }
 
 .navbar-nav li a {
-    color: #000000 !important;
+    color: #ffffff !important;
     font-weight: 600;
     font-size: 2rem;
     font-family: 'Caveat', cursive;
@@ -113,21 +118,21 @@ button:focus {
 }
 
 .ytube {
-  position: relative;
-  width: 100%;
-  overflow: hidden;
-  padding-top: 56.25%; /* 16:9 Aspect Ratio */
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    padding-top: 56.25%;
 }
 
 .responsive-iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  bottom: 0;
-  right: 0;
-  width: 50%;
-  height: 40%;
-  border: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    width: 50%;
+    height: 40%;
+    border: none;
 }
 
 /* Diagonal box-1 */
@@ -138,9 +143,9 @@ button:focus {
     margin-top: 3rem;
     margin-bottom: 3rem;
     transform: skewY(-11deg);
-     -webkit-box-shadow: 0px 2px 11px -1px rgba(235,228,235,1);
-    -moz-box-shadow: 0px 2px 11px -1px rgba(235,228,235,1);
-    box-shadow: 0px 2px 11px -1px rgba(235,228,235,1);
+    -webkit-box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
+    -moz-box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
+    box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
 }
 
 .diagonal-box-2 {
@@ -149,9 +154,9 @@ button:focus {
     margin-top: 5rem;
     margin-bottom: 3rem;
     transform: skewY(-11deg);
-     -webkit-box-shadow: 0px 2px 11px -1px rgba(235,228,235,1);
-    -moz-box-shadow: 0px 2px 11px -1px rgba(235,228,235,1);
-    box-shadow: 0px 2px 11px -1px rgba(235,228,235,1);
+    -webkit-box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
+    -moz-box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
+    box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
 }
 
 .diagonal-box-3 {
@@ -160,9 +165,9 @@ button:focus {
     margin-top: 5rem;
     margin-bottom: 3rem;
     transform: skewY(-11deg);
-    -webkit-box-shadow: 0px 2px 11px -1px rgba(235,228,235,1);
-    -moz-box-shadow: 0px 2px 11px -1px rgba(235,228,235,1);
-    box-shadow: 0px 2px 11px -1px rgba(235,228,235,1);
+    -webkit-box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
+    -moz-box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
+    box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
 }
 
 .vgames {
@@ -176,21 +181,22 @@ iframe {
 }
 
 #bullet {
-    width: 65px;
+    width: 4.5rem;
     float: right;
-    margin-top: -60px;
+    margin-top: -5rem;
 }
 
 .brand {
-     width: 45px;
+    width: 3rem;
     float: right;
-    margin-top: -65px;
+    margin-top: -6rem;
 }
 
 h2 {
     transform: skewY(-11deg);
     color: #ffffff;
     font-weight: 500;
+    margin-top: 1rem;
 }
 
 .rounded {
@@ -199,8 +205,6 @@ h2 {
 }
 
 /* Carousel */
-
-
 
 .carousel img {
     border-radius: 30px;
@@ -219,8 +223,6 @@ p {
     background-color: #E4001F;
     font-weight: bold;
 }
-
-
 
 /* Diagonal box-2 */
 
@@ -241,9 +243,9 @@ p {
 /* Product */
 
 .card {
- -webkit-box-shadow: 4px 7px 11px -4px rgba(235,228,235,1);
--moz-box-shadow: 4px 7px 11px -4px rgba(235,228,235,1);
-box-shadow: 4px 7px 11px -4px rgba(235,228,235,1);
+    -webkit-box-shadow: 4px 7px 11px -4px rgba(235, 228, 235, 1);
+    -moz-box-shadow: 4px 7px 11px -4px rgba(235, 228, 235, 1);
+    box-shadow: 4px 7px 11px -4px rgba(235, 228, 235, 1);
 }
 
 .card-img-top, .card {
@@ -277,8 +279,7 @@ label {
 }
 
 .formbg {
-   background-image: linear-gradient(to right, #000000, #141110, #201c19, #2a2721, #31342b);
-
+    background-image: linear-gradient(to right, #000000, #141110, #201c19, #2a2721, #31342b);
 }
 
 /* Footer  */
@@ -289,42 +290,6 @@ footer {
 
 .fa-facebook, .fa-instagram, .fa-twitter, .fa-linkedin, .fa-youtube {
     color: #E4001F;
-}
-
-/* Media Queries */
-
-@media (max-width: 470px) {
-    p {
-        font-size: 15px;
-    }
-  
-    .navbar-brand {
-        font-size: 1.6rem;
-    }
-    #hat {
-        width: 1.8rem;
-    }
- 
-  .navbar-collapse {
-      background: rgba(238, 227, 227, 0.8);
-      border-radius: 2rem;
-  }
-
- 
-}
-
-@media (min-width: 470px) {
-    .diagonal-box {
-        margin-top: 6rem;
-    }
-    .diagonal-box-2 {
-        margin-top: 19rem;
-    }
-    #bullet {
-        margin-top: -90px;
-    }
-   
-
 }
 
 @media (min-width: 640px) {
@@ -341,19 +306,25 @@ footer {
         margin-top: 5rem;
     }
     .carousel {
-    
         top: -3rem;
     }
-   
     .brand {
-     margin-top: -105px;
+        margin-top: -7.7rem;
     }
- 
     .product {
         float: right;
     }
     .diagonal-box-2 {
         margin-bottom: 6rem;
+    }
+    #bullet {
+        margin-top: -7rem;
+    }
+    #mario {
+        margin-top: -6rem;
+    }
+    #mushroom {
+        margin-top: -4.5rem;
     }
 }
 
@@ -361,12 +332,9 @@ footer {
     .display-4 {
         margin-top: -3rem;
     }
- 
     .videog {
-        
         height: 50vh;
     }
-
     .p-frame {
         margin-top: -5rem;
     }
@@ -375,8 +343,7 @@ footer {
         margin-bottom: 5rem;
     }
     iframe {
-       margin-bottom: 5rem; 
-      
+        margin-bottom: 5rem;
     }
     .diagonal-box-2 {
         margin-top: -6rem;
@@ -384,21 +351,19 @@ footer {
     .fa-facebook, .fa-instagram, .fa-twitter, .fa-linkedin, .fa-youtube {
         font-size: 30px;
     }
- 
     #mario {
         margin-top: -6.25rem;
-        margin-left: 38rem;
+        margin-left: 43rem;
         position: absolute;
     }
     #mushroom {
         margin-top: -4.375rem;
-        margin-left: 41rem;
+        margin-left: 46rem;
         position: absolute;
     }
-  
 }
 
-@media (min-width: 940px) {
+@media (min-width: 1024px) {
     .jumbotron {
         margin: 8.5rem;
         right: -90px;
@@ -409,47 +374,37 @@ footer {
         margin-top: -3rem;
     }
     .diagonal-box {
-        margin-top: 8rem;
+        margin-top: 11rem;
         margin-bottom: 8rem;
-       
     }
     .diagonal-box-2 {
         margin-top: -12rem;
         margin-bottom: 8rem;
-        
     }
-
     #bullet {
-        margin-top: -7.5rem;
+        margin-top: -9.5rem;
     }
-     .brand {
-     margin-top: -8.4375rem;
+    .brand {
+        margin-top: -10rem;
     }
-    
-  
     #mario {
-        margin-top: -7.5rem;
-        margin-left: 53rem;
+        margin-top: -8.5rem;
+        margin-left: 58rem;
         position: absolute;
     }
     #mushroom {
-        margin-top: -5.625rem;
-        margin-left: 56rem;
+        margin-top: -7rem;
+        margin-left: 61rem;
         position: absolute;
     }
- 
-  h2 {
-      margin-right: 8rem;
-      
-  }
-
-  .carousel {
-      
+    h2 {
+        margin-left: 1rem;
+    }
+    .carousel {
         margin-left: 1rem;
         width: 25rem;
     }
-
-       .embed-responsive {
+    .embed-responsive {
         width: 100%;
         margin-bottom: 15rem;
         margin-top: 13rem;
@@ -457,7 +412,6 @@ footer {
         margin-left: 6rem;
         margin-bottom: 5rem;
     }
-    
     .p-frame {
         margin-left: 8rem;
         margin-top: 1rem;
@@ -467,57 +421,48 @@ footer {
         height: 50vh;
         margin-top: 6rem;
     }
-
     .p-game {
         margin-top: 4rem;
     }
-   
     iframe {
         margin-top: -12rem;
         margin-bottom: 16rem;
     }
-   
- 
 }
 
 @media (min-width: 1280px) {
     .display-4 {
         margin-top: -3rem;
     }
-  
     .jumbotron {
         padding: 0.1rem;
         width: 40%;
     }
     .diagonal-box {
-        margin-top: 8rem;
+        margin-top: 12rem;
     }
     #bullet {
-        margin-top: -10rem;
+        margin-top: -11rem;
     }
-  
-     iframe {
-         margin-top: 2rem;
-     }
-      
-
+    iframe {
+        margin-top: 2rem;
+    }
     #btn-desc {
         margin-bottom: 5rem;
     }
     #mario {
-        margin-top: -8.125rem;
-        margin-left: 66rem;
+        margin-top: -10rem;
+        margin-left: 74rem;
         position: absolute;
     }
     #mushroom {
-        margin-top: -6.25rem;
-        margin-left: 69rem;
+        margin-top: -8.5rem;
+        margin-left: 77rem;
         position: absolute;
     }
     .brand {
-     margin-top: -9.6875rem;
+        margin-top: -11rem;
     }
-    
     .card {
         margin: 8rem;
         width: 21rem;
@@ -532,88 +477,81 @@ footer {
     form {
         padding: 6rem;
     }
-
-       .embed-responsive {
-      
+    .embed-responsive {
         margin-bottom: 15rem;
         margin-top: 2rem;
         margin-left: -2rem;
         margin-bottom: 18rem;
     }
-    
     .p-frame {
         margin-left: -2rem;
         margin-top: 2rem;
     }
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 1366px) {
     #mario {
-        margin-top: -9.375rem;
-        margin-left: 76rem;
+        margin-top: -11rem;
+        margin-left: 80rem;
         position: absolute;
     }
     #mushroom {
-        margin-top: -7.5rem;
-        margin-left: 79rem;
+        margin-top: -9.5rem;
+        margin-left: 83rem;
         position: absolute;
     }
-    .diagonal-box {
-        margin-top: 9rem;
+    #bullet {
+        margin-top: -12rem;
     }
-     .brand {
-     margin-top: -168px;
+    .brand {
+        margin-top: -12rem;
     }
 }
 
-@media (min-width: 1640px) {
-    .diagonal-box {
-        margin-top: 15rem;
+@media (min-width: 1600px) {
+    #mario {
+        margin-top: -12rem;
+        margin-left: 94rem;
+    }
+    #mushroom {
+        margin-top: -10.7rem;
+        margin-left: 97rem;
     }
     #bullet {
         margin-top: -12.5rem;
     }
+    .brand {
+        margin-top: -13rem;
+    }
+}
+
+@media (min-width: 1700px) {
+    #bullet {
+        margin-top: -13.5rem;
+    }
     #mario {
-        
-        margin-left: 92rem;
+        margin-top: -13.125rem;
+        margin-left: 101rem;
     }
     #mushroom {
-        margin-top: -8rem;
-        margin-left: 95rem;
+        margin-top: -11.5rem;
+        margin-left: 104rem;
     }
-   
     .brand {
-     margin-top: -12.1875rem;
+        margin-top: -14rem;
     }
-   
 }
 
 @media (min-width: 1800px) {
     #mario {
-        margin-top: -11rem;
-        margin-left: 104rem;
+        margin-top: -14rem;
+        margin-left: 113rem;
     }
     #mushroom {
-        margin-top: -9.5rem;
-        margin-left: 107rem;
+        margin-top: -12.5rem;
+        margin-left: 116rem;
     }
-    .diagonal-box {
-        margin-top: 11.5rem;
-    }
-     .brand {
-     margin-top: -13.5rem;
-    }
-  
-    .embed-responsive {
-      
-        margin-bottom: 15rem;
-        margin-top: 2rem;
-        margin-left: -35rem;
-        margin-bottom: 18rem;
-    }
-    
-    .p-frame {
-        margin-left: -35rem;
-        margin-top: -5rem;
+    .brand {
+        margin-top: -15rem;
     }
 }
