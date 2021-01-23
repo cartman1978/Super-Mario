@@ -71,6 +71,17 @@ button:focus {
     outline: none;
 }
 
+.nav-link img {
+    display: none;
+}
+
+.nav-link:hover img {
+    display: inline;
+    transform: translateY(-10px);
+    transition: 1.2s;
+    height: 3rem;
+}
+
 .navbar-nav li a {
     color: #ffffff !important;
     font-weight: 600;
@@ -146,6 +157,7 @@ button:focus {
     -webkit-box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
     -moz-box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
     box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
+     background-image: url("../images/wall.png");
 }
 
 .diagonal-box-2 {
@@ -157,6 +169,7 @@ button:focus {
     -webkit-box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
     -moz-box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
     box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
+     background-image: url("../images/wall.png");
 }
 
 .diagonal-box-3 {
@@ -168,6 +181,7 @@ button:focus {
     -webkit-box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
     -moz-box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
     box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
+     background-image: url("../images/wall.png");
 }
 
 .vgames {
