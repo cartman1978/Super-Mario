@@ -71,15 +71,16 @@ button:focus {
     outline: none;
 }
 
-.nav-link img {
+.navbar-nav .nav-link img {
+    height: 3rem;
     display: none;
 }
 
-.nav-link:hover img {
-    display: inline;
-    transform: translateY(-10px);
-    transition: 1.2s;
-    height: 3rem;
+.navbar-nav .nav-link:hover img {
+    display: inline-block;
+    margin: 0 0.5rem;
+    animation: fadeInUp;
+    animation-duration: 2s;
 }
 
 .navbar-nav li a {
