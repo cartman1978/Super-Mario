@@ -95,13 +95,17 @@ button:focus {
     transition: 0.7s;
 }
 
+.fa-times {
+    color: #E4001F;
+}
+
 .hero {
     position: relative;
 }
 
 .jumbotron {
     position: absolute;
-    top: 3rem;
+    top: 4rem;
     padding: 0.8rem 1rem;
     margin: 1rem;
     border-radius: 1.2rem;
