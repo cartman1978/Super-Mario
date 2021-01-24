@@ -323,10 +323,10 @@ footer {
 }
 
 /* Styling images for mobile */
-@media (max-width: 640px) {
+@media (max-width: 760px) {
     .footer-img {
         height: 3rem;
-        margin-bottom: -15rem;
+        margin-bottom: -14.8rem;
         margin-left: -2rem;
     }
     .footer-img-2 {
