@@ -257,9 +257,8 @@ p {
 /* Product */
 
 .card {
-    -webkit-box-shadow: 4px 7px 11px -4px rgba(235, 228, 235, 1);
-    -moz-box-shadow: 4px 7px 11px -4px rgba(235, 228, 235, 1);
-    box-shadow: 4px 7px 11px -4px rgba(235, 228, 235, 1);
+ color: rgba(var(--color), 1);
+    box-shadow: var(--shadowColor);
 }
 
 .card-img-top, .card {
