@@ -1,4 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=Red+Hat+Display:wght@400;500;700;900&display=swap');
+:root {
+    --red: #E4001F;
+    --color: 255, 228, 235, 1;
+    --shadowColor: 0px 2px 11px -1px rgba(var(--color));
+}
+
 html {
     overflow-x: hidden;
     box-sizing: border-box;
@@ -71,6 +77,24 @@ button:focus {
     outline: none;
 }
 
+.fa-times {
+    color: var(--red);
+}
+
+.navbar-nav li a {
+    color: #ffffff !important;
+    font-weight: 600;
+    font-size: 2rem;
+    font-family: 'Caveat', cursive;
+    margin: 1.5rem;
+}
+
+.navbar-nav li a:hover {
+    color: #B7F817 !important;
+    transition: 2.2s;
+    height: 1rem;
+}
+
 .navbar-nav .nav-link img {
     height: 3rem;
     display: none;
@@ -81,22 +105,6 @@ button:focus {
     margin: 0 0.5rem;
     animation: fadeInUp;
     animation-duration: 2s;
-}
-
-.navbar-nav li a {
-    color: #ffffff !important;
-    font-weight: 600;
-    font-size: 2rem;
-    font-family: 'Caveat', cursive;
-}
-
-.navbar-nav li a:hover {
-    color: #B7F817 !important;
-    transition: 0.7s;
-}
-
-.fa-times {
-    color: #E4001F;
 }
 
 .hero {
@@ -133,13 +141,6 @@ button:focus {
     max-height: 44rem;
 }
 
-.ytube {
-    position: relative;
-    width: 100%;
-    overflow: hidden;
-    padding-top: 56.25%;
-}
-
 .responsive-iframe {
     position: absolute;
     top: 0;
@@ -154,39 +155,33 @@ button:focus {
 /* Diagonal box-1 */
 
 .diagonal-box {
-    background-color: #E4001F;
     height: 6rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
     transform: skewY(-11deg);
-    -webkit-box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
-    -moz-box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
-    box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
-     background-image: url("../images/wall.png");
+    color: rgba(var(--color), 1);
+    box-shadow: var(--shadowColor);
+    background-image: url("../images/wall.png");
 }
 
 .diagonal-box-2 {
-    background-color: #E4001F;
     height: 6rem;
     margin-top: 5rem;
     margin-bottom: 3rem;
     transform: skewY(-11deg);
-    -webkit-box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
-    -moz-box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
-    box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
-     background-image: url("../images/wall.png");
+    color: rgba(var(--color), 1);
+    box-shadow: var(--shadowColor);
+    background-image: url("../images/wall.png");
 }
 
 .diagonal-box-3 {
-    background-color: #E4001F;
     height: 6rem;
     margin-top: 5rem;
     margin-bottom: 3rem;
     transform: skewY(-11deg);
-    -webkit-box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
-    -moz-box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
-    box-shadow: 0px 2px 11px -1px rgba(235, 228, 235, 1);
-     background-image: url("../images/wall.png");
+    color: rgba(var(--color), 1);
+    box-shadow: var(--shadowColor);
+    background-image: url("../images/wall.png");
 }
 
 .vgames {
@@ -214,7 +209,7 @@ iframe {
 h2 {
     transform: skewY(-11deg);
     color: #ffffff;
-    font-weight: 500;
+    font-weight: 700;
     margin-top: 1rem;
 }
 
@@ -239,7 +234,7 @@ p {
 }
 
 .btn {
-    background-color: #E4001F;
+    background-color: var(--red);
     font-weight: bold;
 }
 
@@ -294,7 +289,7 @@ label {
 }
 
 .fa-envelope-square, .fa-comment-dots, .fa-user {
-    color: #E4001F;
+    color: var(--red);
 }
 
 .formbg {
@@ -308,7 +303,7 @@ footer {
 }
 
 .fa-facebook, .fa-instagram, .fa-twitter, .fa-linkedin, .fa-youtube {
-    color: #E4001F;
+    color: var(--red);
 }
 
 @media (min-width: 640px) {
