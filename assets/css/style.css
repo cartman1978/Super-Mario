@@ -340,6 +340,12 @@ footer {
         margin-bottom: -16.5rem;
         margin-left: -1.8rem;
     }
+
+     .navbar-collapse {
+        background: rgb(107, 136, 254);
+        border-radius: 2rem;
+        opacity: 0.8;
+    }
 }
 
 @media (min-width: 640px) {
