@@ -3,7 +3,7 @@
     --red: #E4001F;
     --white: #ffffff;
     --color: 255, 228, 235, 1;
-    --shadowColor: 0px 2px 11px -1px rgba(var(--color));
+    --shadowColor: 0px 2px 11px -1px rgb(var(--color));
 }
 
 html {
