@@ -305,6 +305,11 @@ footer {
     color: var(--red);
 }
 
+.footer-img {
+    height: 4rem;
+    margin-bottom: -10rem;
+}
+
 @media (min-width: 640px) {
     .product-column {
         padding: 2rem;
