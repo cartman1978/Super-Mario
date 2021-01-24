@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=Red+Hat+Display:wght@400;500;700;900&display=swap');
 :root {
     --red: #E4001F;
+    --white: #ffffff;
     --color: 255, 228, 235, 1;
     --shadowColor: 0px 2px 11px -1px rgba(var(--color));
 }
@@ -34,7 +35,7 @@ body {
 }
 
 .close-icon {
-    color: #E4001F;
+    color: var(--red);
 }
 
 .navbar-toggler:focus, .navbar-toggler:active {
@@ -82,7 +83,7 @@ button:focus {
 }
 
 .navbar-nav li a {
-    color: #ffffff !important;
+    color: var(--white) !important;
     font-weight: 600;
     font-size: 2rem;
     font-family: 'Caveat', cursive;
@@ -208,7 +209,7 @@ iframe {
 
 h2 {
     transform: skewY(-11deg);
-    color: #ffffff;
+    color: var(--white);
     font-weight: 700;
     margin-top: 1rem;
 }
@@ -230,7 +231,7 @@ p {
     text-align: left;
     font-weight: 400;
     font-size: 1rem;
-    color: #ffffff;
+    color: var(--white);
 }
 
 .btn {
@@ -257,7 +258,7 @@ p {
 /* Product */
 
 .card {
- color: rgba(var(--color), 1);
+    color: rgba(var(--color), 1);
     box-shadow: var(--shadowColor);
 }
 
@@ -272,7 +273,7 @@ p {
 /* Form */
 
 form {
-    background-image: url("../images/form.jpg");
+    background-image: url("../images/img_5.jpg");
     background-size: cover;
 }
 
@@ -298,11 +299,12 @@ label {
 /* Footer  */
 
 footer {
-    background-color: #AEAEB5;
+    /* background-color: #AEAEB5; */
+    background-image: url("../images/wall.png");
 }
 
 .fa-facebook, .fa-instagram, .fa-twitter, .fa-linkedin, .fa-youtube {
-    color: var(--red);
+    color: var(--white);
 }
 
 .footer-img {
@@ -322,7 +324,6 @@ footer {
     margin-left: -3rem;
 }
 
-/* Styling images for mobile */
 @media (max-width: 760px) {
     .footer-img {
         height: 3rem;
