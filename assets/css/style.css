@@ -2,8 +2,6 @@
 :root {
     --red: #E4001F;
     --white: #ffffff;
-    --color: 255, 228, 235, 1;
-    --shadowColor: 0px 2px 11px -1px rgb(var(--color));
 }
 
 html {
@@ -160,9 +158,9 @@ button:focus {
     margin-top: 3rem;
     margin-bottom: 3rem;
     transform: skewY(-11deg);
-    color: rgba(var(--color), 1);
-    box-shadow: var(--shadowColor);
-    -webkit-box-shadow: var(--shadowColor);
+     -webkit-box-shadow: 0px 4px 5px -1px rgb(158, 158, 158);
+    -moz-box-shadow: 0px 4px 5px -1px rgb(165, 165, 165);
+    box-shadow: 0px 4px 5px -1px rgb(175, 175, 175);
     background-image: url("../images/wall.png");
 }
 
@@ -171,9 +169,9 @@ button:focus {
     margin-top: 5rem;
     margin-bottom: 3rem;
     transform: skewY(-11deg);
-    color: rgba(var(--color), 1);
-    box-shadow: var(--shadowColor);
-    -webkit-box-shadow: var(--shadowColor);
+     -webkit-box-shadow: 0px 4px 5px -1px rgb(158, 158, 158);
+    -moz-box-shadow: 0px 4px 5px -1px rgb(165, 165, 165);
+    box-shadow: 0px 4px 5px -1px rgb(175, 175, 175);
     background-image: url("../images/wall.png");
 }
 
@@ -182,9 +180,9 @@ button:focus {
     margin-top: 5rem;
     margin-bottom: 3rem;
     transform: skewY(-11deg);
-    color: rgba(var(--color), 1);
-    box-shadow: var(--shadowColor);
-    -webkit-box-shadow: var(--shadowColor);
+    -webkit-box-shadow: 0px 4px 5px -1px rgb(158, 158, 158);
+    -moz-box-shadow: 0px 4px 5px -1px rgb(165, 165, 165);
+    box-shadow: 0px 4px 5px -1px rgb(175, 175, 175);
     background-image: url("../images/wall.png");
 }
 
