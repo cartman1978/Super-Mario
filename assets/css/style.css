@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&family=Red+Hat+Display:wght@400;500;700;900&display=swap');
-
+:root {
+    --red: #E4001F;
+    --white: #ffffff;
+    --color: 255, 228, 235, 1;
+    --shadowColor: 0px 2px 11px -1px rgb(var(--color));
+}
 
 html {
     overflow-x: hidden;
@@ -157,6 +162,7 @@ button:focus {
     transform: skewY(-11deg);
     color: rgba(var(--color), 1);
     box-shadow: var(--shadowColor);
+    -webkit-box-shadow: var(--shadowColor);
     background-image: url("../images/wall.png");
 }
 
@@ -167,6 +173,7 @@ button:focus {
     transform: skewY(-11deg);
     color: rgba(var(--color), 1);
     box-shadow: var(--shadowColor);
+    -webkit-box-shadow: var(--shadowColor);
     background-image: url("../images/wall.png");
 }
 
@@ -177,6 +184,7 @@ button:focus {
     transform: skewY(-11deg);
     color: rgba(var(--color), 1);
     box-shadow: var(--shadowColor);
+    -webkit-box-shadow: var(--shadowColor);
     background-image: url("../images/wall.png");
 }
 
