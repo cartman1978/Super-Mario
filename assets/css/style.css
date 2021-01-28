@@ -4,17 +4,19 @@
     --white: #ffffff;
 }
 
-
+html {
+    overflow-x: hidden;
+}
 
 body {
     max-width: 100%;
-    overflow-x: hidden;
     margin: 0 auto;
     padding: 0;
     background-image: linear-gradient(to right, #000000, #141110, #201c19, #2a2721, #31342b);
     font-family: 'Red Hat Display', sans-serif;
     font-weight: 400;
     font-size: 17px;
+    overflow: hidden;
     scroll-behavior: smooth;
 }
 
