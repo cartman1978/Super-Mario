@@ -2,6 +2,7 @@
 :root {
     --red: #E4001F;
     --white: #ffffff;
+    --blue: rgb(107, 136, 254);
 }
 
 html {
@@ -48,7 +49,7 @@ body {
 }
 
 .navbar.scrolled {
-    background: rgb(107, 136, 254);
+    background:  var(--blue);
 }
 
 .navbar-toggler {
@@ -343,7 +344,7 @@ footer {
     }
 
      .navbar-collapse {
-        background: rgb(107, 136, 254);
+        background: var(--blue);
         border-radius: 2rem;
         opacity: 0.8;
     }
