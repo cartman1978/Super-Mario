@@ -264,7 +264,7 @@ p {
 
 .btn {
     background-color: var(--red);
-    font-weight: bold;
+    font-weight: 700;
 }
 
 /* Diagonal box-2 */
@@ -292,7 +292,7 @@ p {
 }
 
 .card-img-top, .card {
-    border-radius: 1.8rempx;
+    border-radius: 1.8rem;
 }
 
 .product-column {
@@ -309,7 +309,7 @@ form {
 label {
     margin-top: 1rem;
     color: cornsilk;
-    font-weight: bold;
+    font-weight: 700;
 }
 
 #btn-form {
