@@ -150,7 +150,7 @@ button:focus {
 
 .display-4 {
     font-size: 20px;
-    font-weight: bold;
+    font-weight: 700;
     text-align: center;
 }
 
@@ -250,7 +250,7 @@ h2 {
 /* Carousel */
 
 .carousel img {
-    border-radius: 30px;
+    border-radius: 1.8rem;
     height: 13rem;
     border: 2px solid black;
 }
@@ -270,16 +270,16 @@ p {
 /* Diagonal box-2 */
 
 #mario {
-    width: 55px;
+    width: 3.4rem;
     float: right;
-    margin-top: -60px;
+    margin-top: -3.7rem;
     margin-right: 3rem;
 }
 
 #mushroom {
-    width: 25px;
+    width: 1.5rem;
     float: right;
-    margin-top: -30px;
+    margin-top: -1.8rem;
     margin-right: 1.8rem;
 }
 
@@ -292,7 +292,7 @@ p {
 }
 
 .card-img-top, .card {
-    border-radius: 30px;
+    border-radius: 1.8rempx;
 }
 
 .product-column {
@@ -383,7 +383,7 @@ footer {
     }
     .jumbotron {
         top: 98px;
-        right: -210px;
+        right: -13rem;
         padding: 1rem 1rem;
         margin: 16rem;
     }
@@ -434,7 +434,7 @@ footer {
         margin-top: -6rem;
     }
     .fa-facebook, .fa-instagram, .fa-twitter, .fa-linkedin, .fa-youtube {
-        font-size: 30px;
+        font-size: 1.8rem;
     }
     #mario {
         margin-top: -6.25rem;
@@ -465,7 +465,7 @@ footer {
 @media (min-width: 1024px) {
     .jumbotron {
         margin: 8.5rem;
-        right: -90px;
+        right: -5.6rem;
         padding: 0.1rem;
         width: 40%;
     }
@@ -571,7 +571,7 @@ footer {
         padding: 3% 2%;
     }
     #row {
-        margin-top: -280px;
+        margin-top: -17.5rem;
     }
     form {
         padding: 6rem;
