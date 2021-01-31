@@ -82,6 +82,10 @@ button:focus {
     color: var(--red);
 }
 
+.li-group {
+    display: flex;
+}
+
 .navbar-nav li a {
     color: var(--white) !important;
     font-weight: 600;
@@ -375,6 +379,12 @@ footer {
         background: var(--blue);
         border-radius: 2rem;
         opacity: 0.8;
+    }
+      .li-group {
+        display: block;
+    }
+    .navbar-nav li a {
+        display: inline;
     }
 }
 
