@@ -67,6 +67,7 @@ body {
 
 #hat {
     width: 3rem;
+    height: auto;
 }
 
 .navbar-toggler-icon {
@@ -97,6 +98,7 @@ button:focus {
 
 .navbar-nav .nav-link img {
     height: 3rem;
+    width: auto;
     display: none;
 }
 
@@ -162,6 +164,7 @@ button:focus {
 
 .hero .hero-img {
     background-size: cover;
+    height: auto;
     width: 100%;
     min-height: 18rem;
     max-height: 44rem;
