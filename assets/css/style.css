@@ -474,6 +474,9 @@ footer {
 }
 
 @media (min-width: 1024px) {
+    .navbar-nav li a {
+        display: flex;
+    }
     .jumbotron {
         margin: 8.5rem;
         right: -5.6rem;
