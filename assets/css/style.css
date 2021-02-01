@@ -383,7 +383,7 @@ footer {
     .navbar-nav li a {
         display: inline;
     }
-    #bullet {
+     #bullet {
         margin-top: -6rem;
     }
     #mario {
@@ -393,7 +393,7 @@ footer {
         margin-top: -3.5rem;
     }
     .brand {
-        margin-top: -6.1rem;
+        margin-top: -6.2rem;
     }
 }
 
