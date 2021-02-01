@@ -383,6 +383,18 @@ footer {
     .navbar-nav li a {
         display: inline;
     }
+    #bullet {
+        margin-top: -6rem;
+    }
+    #mario {
+        margin-top: -5rem;
+    }
+    #mushroom {
+        margin-top: -3.5rem;
+    }
+    .brand {
+        margin-top: -6.2rem;
+    }
 }
 
 @media (min-width: 640px) {

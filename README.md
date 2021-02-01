@@ -116,7 +116,7 @@ Icons used were provided by [Font Awesome](https://fontawesome.com/)
 
 * The body is a combination of #E4001F and #FFF;
 * For the Navbar I actually choose the same grey that Nintendo used #AEAEB5;
-* I decide to replace Navbar colour #AEAEB5 with  rgb(107, 136, 254) to be consistent with the warp pipe zone theme i choose;
+* I decide to replace Navbar colour #AEAEB5 with  rgb(107, 136, 254) to be consistent with the warp pipe zone theme I choose;
 
 ## Features
 ___
