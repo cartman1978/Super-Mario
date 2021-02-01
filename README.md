@@ -186,6 +186,26 @@ I decide to diplay the video directly in the section so no need to click another
 
 Videogame section is now working as planned, is more easy to read and intuitive for the UI point of view.
 
+### Contact Form
+
+* Plan
+
+After visiting the website user is able to get in contact via email simple to make a request or receiving addition info.
+
+* Implementation
+
+I created responsive contact form with required inputs and with a fancy background image.
+
+* Test 
+
+Form work as expected in terms of responsiveness for all the screen size but the background is not in line with the website design and not consistent with the design I had in mind.
+
+I searched online for an image of super mario warp zone and replace the previous one.
+
+* Result
+
+Now the contact section is solid and consistent with the rest of the design from the top to the bottom.
+
 Testing HTML with  [HTML Validator](https://validator.w3.org/), first results:
 * Warning
     * heading section lacks heading
