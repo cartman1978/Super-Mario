@@ -324,7 +324,7 @@ label {
 }
 
 .formbg {
-    background-image: url("../images/zerios-level.jpg");
+    background-image: url("../images/mario-warp.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -466,6 +466,10 @@ footer {
         margin-left: 46rem;
         position: absolute;
     }
+
+    .formbg {
+        min-height: 35rem;
+    }
     .footer-img {
         height: 5rem;
         margin-bottom: -14rem;
@@ -599,6 +603,10 @@ footer {
     form {
         padding: 6rem;
     }
+
+    .formbg {
+        min-height: 41rem;
+    }
     .embed-responsive {
         margin-bottom: 15rem;
         margin-top: 2rem;
@@ -661,6 +669,10 @@ footer {
     }
     .brand {
         margin-top: -14rem;
+    }
+
+   .formbg {
+        min-height: 57rem;
     }
 }
 
