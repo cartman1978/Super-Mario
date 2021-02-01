@@ -46,7 +46,7 @@ ___
 * [ Rory ] User 2
 * [ Claudio ] User 3
 
-User 1: As a mobile user I need a smooth navigation  through the web page, I want the main information visible once that I click on links.
+User 1: As a user I need a smooth navigation  through the web page, I want the main information visible once that I click on links.
  
 | Acceptance Criteria     |    
 | -------   
@@ -56,7 +56,7 @@ Ensure the user1 is able to:
 * Navigate to each section by click on links;
 * Able to easily read title of the article after link has been clicked.
 
-User 2: As a millennials videogamer I want to know more about the creator, the game library and the story of how the game evolved since the first publication.
+User 2: As a user I want to know more about the creator, the game library and the story of how the game evolved since the first publication.
 
 | Acceptance Criteria     |    
 | -------   
@@ -66,7 +66,7 @@ Ensure the user2 is able to:
 * Read a brief introduction of the game main character and how it became so famous;
 * On the same section user can click a video content about all the stories behind Super Mario publication, how Mario get new super power and when new characher were added to the series.
 
-User 3: As a Super Mario fan I want to see more funny contents about mario and find related  online shop where I can buy articles for my self and family.
+User 3: As a user I want to see more funny contents about mario and find related  online shop where I can buy articles for my self and family.
 
 | Acceptance Criteria     |    
 | -------   
@@ -116,6 +116,7 @@ Icons used were provided by [Font Awesome](https://fontawesome.com/)
 
 * The body is a combination of #E4001F and #FFF;
 * For the Navbar I actually choose the same grey that Nintendo used #AEAEB5;
+* I decide to replace Navbar colour #AEAEB5 with  rgb(107, 136, 254) to be consistent with the warp pipe zone theme i choose;
 
 ## Features
 ___
