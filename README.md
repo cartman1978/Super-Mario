@@ -146,14 +146,45 @@ ___
 First Testing I used online tool [responsive design](http://ami.responsivedesign.is/#), to make sure the website is responsive.
 Second responsive test made with [responsive test tool](http://responsivetesttool.com/), in order to check mobile, Tabled and Desktop in different size.
 
+### Navbar
+
 * Plan 
+
 As the majority of my their mobile users my approach was mobile firts responsive, the idea it was to make mobile users confortable while exploring the website and add some animation on the navbar link that recall super mario videogame. Each section has a read me button which redirect to external links.
 
 * Implementation
+
 I made links in navbar with animation effect when hover on it, to divide sections I used diagonal box wiht title and super mario effect.
 
 * Test 
 
+When I first tested for mobile resolution I noticed that while hovering on the nav links the animation didn't behave like what I espected, the pipe image actually flip over and the result was poor in terms of UI.
+
+I decide to wrap the list emelemts inside anothe div then I added diplay flex for mobile min-widht.
+
+* Result
+
+Animation is now working as planned with nice and smooth transition. On mobile screen is now easy to view and navigate.
+
+### Videogame section
+
+* Plan
+
+My plan is to create a videogame section with text content to give an overview of the game history and a button where the user can click and being redirect to an external video link. 
+
+* Implementation
+
+I created a section with two text content, a carousel where the user can explore different videogame version, and one button to see the video.
+
+* Test 
+
+I have tried  to navigate on mobile and tablet, resolution was good but I wasn't happy in terms of UI. Users can be confused with the call to action button they may aspect to read more content rather than redirect to youtube video.
+
+I decide to diplay the video directly in the section so no need to click another button but the video can be played directly in the website, underneath the first text content I placed the carousel  than the video iframe as a last element.
+
+* Result
+
+Videogame section is now working as planned, is more easy to read and intuitive for the UI point of view.
 
 Testing HTML with  [HTML Validator](https://validator.w3.org/), first results:
 * Warning
