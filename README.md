@@ -143,6 +143,18 @@ ___
 
 ## Testing
 ___
+First Testing I used online tool [responsive design](http://ami.responsivedesign.is/#), to make sure the website is responsive.
+Second responsive test made with [responsive test tool](http://responsivetesttool.com/), in order to check mobile, Tabled and Desktop in different size.
+
+* Plan 
+As the majority of my their mobile users my approach was mobile firts responsive, the idea it was to make mobile users confortable while exploring the website and add some animation on the navbar link that recall super mario videogame. Each section has a read me button which redirect to external links.
+
+* Implementation
+I made links in navbar with animation effect when hover on it, to divide sections I used diagonal box wiht title and super mario effect.
+
+* Test 
+
+
 Testing HTML with  [HTML Validator](https://validator.w3.org/), first results:
 * Warning
     * heading section lacks heading
