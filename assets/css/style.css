@@ -377,7 +377,7 @@ footer {
         border-radius: 2rem;
         opacity: 0.8;
     }
-      .li-group {
+    .li-group {
         display: block;
     }
     .navbar-nav li a {
@@ -394,6 +394,12 @@ footer {
     }
     .brand {
         margin-top: -6.2rem;
+    }
+    .formbg {
+        background-image: url("../images/mobile-bg.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+        
     }
 }
 
@@ -468,6 +474,9 @@ footer {
     }
 
     .formbg {
+        background-image: url("../images/bg-tablet.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
         min-height: 35rem;
     }
     .footer-img {
@@ -554,6 +563,9 @@ footer {
         margin-top: -12rem;
         margin-bottom: 16rem;
     }
+    .formbg {
+        min-height: 45rem;
+    }
 }
 
 @media (min-width: 1280px) {
@@ -606,6 +618,13 @@ footer {
 
     .formbg {
         min-height: 41rem;
+    }
+
+    .formbg {
+        background-image: url("../images/warp-bg.png");
+        background-repeat: no-repeat;
+        background-size: cover;
+       
     }
     .embed-responsive {
         margin-bottom: 15rem;
