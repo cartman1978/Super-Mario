@@ -323,12 +323,6 @@ label {
     color: var(--red);
 }
 
-.formbg {
-    background-image: url("../images/mario-warp.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
-}
-
 /* Footer  */
 
 footer {
@@ -436,6 +430,12 @@ footer {
     }
     #mushroom {
         margin-top: -4.5rem;
+    }
+    .formbg {
+        background-image: url("../images/mario-bg-tablet.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 35rem;
     }
 }
 
