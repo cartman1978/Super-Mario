@@ -152,7 +152,7 @@ The website will be easy to navigate by using the navigation bar or by scrolling
 
 You can find my wireframes below:
 
-### [Desktop wireframe](wireframes/desktop.jpg)
+### [Desktop wireframe](wireframes/desktop.pdf)
 ___
 
 ## **Features**
