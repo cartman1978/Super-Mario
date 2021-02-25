@@ -20,6 +20,7 @@
     * [Fonts](#fonts)
     * [Icons](#icons)
     * [Colors](#colors)
+* [Wireframes](#wireframes)
 * [Technologies used](#technologies-used)
 * [Features](#features)
     * [Developed Features](#developed-features)
@@ -142,6 +143,17 @@ Icons used were provided by [Font Awesome](https://fontawesome.com/)
 * The body is a combination of #E4001F and #FFF;
 * For the Navbar I actually choose the same grey that Nintendo used #AEAEB5;
 * I decide to replace Navbar colour #AEAEB5 with  rgb(107, 136, 254) to be consistent with the warp pipe zone theme I choose;
+
+___
+## Wireframes
+
+I have decided to use [Figma](https://www.figma.com/)  to create wireframes for my website. First I created a basic wireframe for desktop and later on for tablet and mobile. 
+The website will be easy to navigate by using the navigation bar or by scrolling down the page.
+
+You can find my wireframes below:
+
+### [Desktop wireframe](wireframes/desktop.jpg)
+___
 
 ## **Features**
 ___

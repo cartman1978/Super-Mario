@@ -259,7 +259,7 @@ h2 {
 .carousel img {
     border-radius: 1.8rem;
     height: 13rem;
-    border: 2px solid black;
+    border: 2px solid #000000;
 }
 
 p {
