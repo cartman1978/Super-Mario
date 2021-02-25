@@ -9,25 +9,25 @@
 
 <a></a>
 
-## Table of Content
+## Table of Contents
 * [UX](#ux)
   * [Project Goals](#project-golas)
   * [User Goals](#user-goals)
-  * User Stories
-  * Site Owner Goal
-  * User Requirements and Expectations
-  * Design
-    * Fonts
-    * Icons
-    * Colors
-* Technologies used
-* Features
-    * Developed Features
-    * Future implementation
-* Testing
-* Bugs 
-* Deployment
-* Credit
+  * [User Stories](#user-stories)
+  * [Site Owner Goal](#site-owners-goals)
+  * [User Requirements and Expectations]
+  * [Design]
+    * [Fonts]
+    * [Icons]
+    * [Colors]
+* [Technologies used]
+* [Features]
+    * [Developed Features]
+    * [Future implementation]
+* [Testing]
+* [Bugs] 
+* [Deployment]
+* [Credit]
 ---
 <a name="ux"></a>
 
