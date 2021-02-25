@@ -327,6 +327,12 @@ label {
     color: var(--red);
 }
 
+span {
+    width: 100%;
+    display:block;
+    border-top: 1px solid #ccc
+}
+
 /* Footer  */
 
 footer {
