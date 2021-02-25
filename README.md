@@ -11,34 +11,33 @@
 
 ## Table of Contents
 * [UX](#ux)
-  * [Project Goals](#project-golas)
+  * [Project Goals](#project-goals)
   * [User Goals](#user-goals)
   * [User Stories](#user-stories)
   * [Site Owner Goal](#site-owners-goals)
-  * [User Requirements and Expectations]
-  * [Design]
-    * [Fonts]
-    * [Icons]
-    * [Colors]
-* [Technologies used]
-* [Features]
-    * [Developed Features]
-    * [Future implementation]
-* [Testing]
-* [Bugs] 
-* [Deployment]
-* [Credit]
+  * [User Requirements and Expectations](#user-requirements-and-expectations)
+  * [Design](#design)
+    * [Fonts](#fonts)
+    * [Icons](#icons)
+    * [Colors](#colors)
+* [Technologies used](#technologies-used)
+* [Features](#features)
+    * [Developed Features](#developed-features)
+    * [Future implementation](#future-implementation)
+* [Testing](#testing)
+* [Deployment](#deployment)
+* [Credit](#credit)
 ---
 <a name="ux"></a>
 
-# **User Experience**
+# **UX**
 
 <a></a>
 ___
 ## The Project Goal
 ##### When I first thinking of this project the idea was to build a website for the generation X users who enjoyed the NES system and  the library of their videogame but maybe they hanging up the controller. 
 
-## User Goal
+## **User Goals**
 * Find information Super Mario saga.
 * Get to know Super Mario and why is the most popular game ever.
 * Images of Super Mario + funny images from internet artist.
@@ -47,7 +46,7 @@ ___
 
 [Back to Top](#table-of-contents)
 
-## User Story
+## **Project Goals**
 | Users      |    
 | -------   
 
@@ -55,6 +54,8 @@ ___
 * [ Rory ] User 2
 * [ Claudio ] User 3
 
+[Back to Top](#table-of-contents)
+<a></a>
 User 1: As a user I need a smooth navigation  through the web page, I want the main information visible once that I click on links.
  
 | Acceptance Criteria     |    
@@ -87,18 +88,23 @@ Ensure the user3 is able to:
 ___
 
 
-
+[Back to Top](#table-of-contents)
 * As a user what I'm looking for is an attractive website where I can spend time and reading interesting information about retro videogame.
 * I want to find information about Nintendo 8 bit and the raise of the 8 bit era.
 * As a user I want to know more about Super Mario Bros, when was created and the evolution of the character.
 * I want to be able to contact the site owner for more details and information about this game.
 
-## Website Owner Goals
+<a></a>
+
+## **Site owners goals**
 * My Goal as a site owner is to inform my users about the 8 bit gaming generation.
 * I want to communicate how important was Super Mario for my generation and the story behind this amazing character.
 * As a site owner is very important to get in touch with my users and answer any topic about gaming experience and fun fact.
 
-## Customer requirements and expectations
+[Back to Top](#table-of-contents)
+<a></a>
+
+## **User Requirements and Expectations**
 1. Requirements
 * Easy navigation using navbar -High-
 * Each section most have main information displayed -High-
@@ -111,9 +117,15 @@ ___
 * Read more button redirect user to useful information related the article.
 * External resource used in the website will provide great information and topics.
 
+[Back to Top](#table-of-contents)
+<a></a>
+
 ## The Design
 ___
 #### I got the first inspiration when I start to design this website from [Nintendo](https://www.nintendo.com/nes-classic/) classics website, I actually try to make a restyling of it with my personal touch, but I wasn't happy enough after the first view, so I decide to make my own design.
+
+[Back to Top](#table-of-contents)
+<a></a>
 
 ### Icons
 Icons used were provided by [Font Awesome](https://fontawesome.com/)
@@ -121,13 +133,17 @@ Icons used were provided by [Font Awesome](https://fontawesome.com/)
 ### Colors
 ![coloursscheme](wireframes/colurspalette.png)
 
+[Back to Top](#table-of-contents)
+<a></a>
+
+
 #### I decide to use colors that reminds the user the original NES console.
 
 * The body is a combination of #E4001F and #FFF;
 * For the Navbar I actually choose the same grey that Nintendo used #AEAEB5;
 * I decide to replace Navbar colour #AEAEB5 with  rgb(107, 136, 254) to be consistent with the warp pipe zone theme I choose;
 
-## Features
+## **Features**
 ___
 
 ### Features implemented:
@@ -136,6 +152,9 @@ ___
 * Video's.
 * Contact Form.
 * Social media links.
+[Back to Top](#table-of-contents)
+<a></a>
+
 
 ### Features that will be implemented in the future:
 * Another Video section.
@@ -154,6 +173,10 @@ ___
 ___
 First Testing I used online tool [responsive design](http://ami.responsivedesign.is/#), to make sure the website is responsive.
 Second responsive test made with [responsive test tool](http://responsivetesttool.com/), in order to check mobile, Tabled and Desktop in different size.
+
+[Back to Top](#table-of-contents)
+<a></a>
+
 
 ## Navbar
 
@@ -273,3 +296,7 @@ ___
 
 ### Special Thanks
 * To my great mentor [Simen Daehlin](https://github.com/Eventyret)
+
+[Back to Top](#table-of-contents)
+<a></a>
+
