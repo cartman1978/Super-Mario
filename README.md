@@ -2,7 +2,7 @@
 
 ### Super Mario Helped Nintendo Conquer the Video Game World
 
-![Mario](assets/images/background.png)
+![Mario](assets/images/wireframe.jpg)
 
 ### Description
 #### I decide to build this website for those who enjoyed playing videogames back in the 80's and specifically the 8 bit era for the Nintendo users. What I want is let user find information about the best videogame for this console and why Super Mario became the face of the system. 
