@@ -132,7 +132,7 @@ ___
 Icons used were provided by [Font Awesome](https://fontawesome.com/)
 
 ### Colors
-![coloursscheme](wireframes/colurspalette.png)
+![coloursscheme](wireframes/colorscheme.png)
 
 [Back to Top](#table-of-contents)
 <a></a>
