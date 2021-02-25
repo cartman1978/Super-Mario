@@ -416,6 +416,9 @@ footer {
         background-size: cover;
         
     }
+    .ft-image {
+        margin-bottom: 5rem;
+    }
 }
 
 @media (min-width: 640px) {
@@ -457,6 +460,10 @@ footer {
         background-repeat: no-repeat;
         background-size: cover;
         min-height: 35rem;
+    }
+
+     .ft-image {
+        margin-bottom: 3rem;
     }
 }
 
