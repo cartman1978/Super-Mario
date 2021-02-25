@@ -147,12 +147,14 @@ Icons used were provided by [Font Awesome](https://fontawesome.com/)
 ___
 ## Wireframes
 
-I have decided to use [Figma](https://www.figma.com/)  to create wireframes for my website. First I created a basic wireframe for desktop and later on for tablet and mobile. 
+I have decided to use [Balsamic](https://balsamiq.com/wireframes/)  to create wireframes for my website. First I created a basic wireframe for desktop and later on for tablet and mobile. 
 The website will be easy to navigate by using the navigation bar or by scrolling down the page.
 
 You can find my wireframes below:
 
 ### [Desktop wireframe](wireframes/desktop.pdf)
+
+### [Tablet & Mobile](wireframes/mobile-tablet.pdf)
 ___
 
 ## **Features**
