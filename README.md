@@ -48,12 +48,7 @@ ___
 [Back to Top](#table-of-contents)
 
 ## **Project Goals**
-| Users      |    
-| -------   
 
-* [ Mark ] User 1
-* [ Rory ] User 2
-* [ Claudio ] User 3
 
 [Back to Top](#table-of-contents)
 <a></a>
