@@ -5,7 +5,7 @@
 ![Mario](assets/images/background.png)
 
 ### Description
-#### I decide to build this website for those who enjoyed playing videogames back in the 80's and specifically the 8 bit era for the Nintendo users. What I want is let user find information about the best videogames for this console and why Super Mario became the face of the system. 
+#### I decide to build this website for those who enjoyed playing videogames back in the 80's and specifically the 8 bit era for the Nintendo users. What I want is let user find information about the best videogame for this console and why Super Mario became the face of the system. 
 
 ## Table of Content
 * UX
@@ -17,10 +17,10 @@
   * Design
     * Fonts
     * Icons
-    * Colours
+    * Colors
 * Technologies used
 * Features
-    * Develped Features
+    * Developed Features
     * Future implementation
 * Testing
 * Bugs 
@@ -29,7 +29,7 @@
 # User Experience
 ___
 ## The Project Goal
-##### When I first thinking of this project the idea was to build a website for the generation X users who enjoyed the NES system and  the library of their videogames but maybe they hanging up the controller. 
+##### When I first thinking of this project the idea was to build a website for the generation X users who enjoyed the NES system and  the library of their videogame but maybe they hanging up the controller. 
 
 ## User Goal
 * Find information Super Mario saga.
@@ -64,7 +64,7 @@ User 2: As a user I want to know more about the creator, the game library and th
 Ensure the user2 is able to:
 * Easily find related information on the top of the page;
 * Read a brief introduction of the game main character and how it became so famous;
-* On the same section user can click a video content about all the stories behind Super Mario publication, how Mario get new super power and when new characher were added to the series.
+* On the same section user can click a video content about all the stories behind Super Mario publication, how Mario get new super power and when new character were added to the series.
 
 User 3: As a user I want to see more funny contents about mario and find related  online shop where I can buy articles for my self and family.
 
@@ -72,14 +72,14 @@ User 3: As a user I want to see more funny contents about mario and find related
 | -------   
 
 Ensure the user3 is able to:
-* Read content about videogame franchises.
-* Find information about merchandising and being riderect to an online reseller of Super Mario Brand.
+* Read content about videogames franchises.
+* Find information about merchandising and being rederect to an online reseller of Super Mario Brand.
 * Able to clink on a button and being redirect to some cool web blog/ page or articles that talking about funny memes or cool animation.
 ___
 
 
 
-* As a user what I'm looking for is an attractive webiste where I can spend time and reading interesting information about retro videogames.
+* As a user what I'm looking for is an attractive website where I can spend time and reading interesting information about retro videogame.
 * I want to find information about Nintendo 8 bit and the raise of the 8 bit era.
 * As a user I want to know more about Super Mario Bros, when was created and the evolution of the character.
 * I want to be able to contact the site owner for more details and information about this game.
@@ -93,14 +93,14 @@ ___
 1. Requirements
 * Easy navigation using navbar -High-
 * Each section most have main information displayed -High-
-* Content dipslayed in a fancy way -Medium-
+* Content displayed in a fancy way -Medium-
 * intuitive Contact form -High-
 
 2. Expectations
 * All the content structured displayed with all the main information.
 * Navigation redirect users to the specific part of the website.
 * Read more button redirect user to useful information related the article.
-* External resource used in the website will provide great informastion and topics.
+* External resource used in the website will provide great information and topics.
 
 ## The Design
 ___
@@ -109,10 +109,10 @@ ___
 ### Icons
 Icons used were provided by [Font Awesome](https://fontawesome.com/)
 
-### Colours
+### Colors
 ![coloursscheme](wireframes/colurspalette.png)
 
-#### I decide to use colours that reminds the user the original NES console.
+#### I decide to use colors that reminds the user the original NES console.
 
 * The body is a combination of #E4001F and #FFF;
 * For the Navbar I actually choose the same grey that Nintendo used #AEAEB5;
@@ -122,7 +122,7 @@ Icons used were provided by [Font Awesome](https://fontawesome.com/)
 ___
 
 ### Features implemented:
-* Resposnsive navigation on all screensizes.
+* Responsive navigation on all screen sizes.
 * Stylish design.
 * Video's.
 * Contact Form.
@@ -146,63 +146,63 @@ ___
 First Testing I used online tool [responsive design](http://ami.responsivedesign.is/#), to make sure the website is responsive.
 Second responsive test made with [responsive test tool](http://responsivetesttool.com/), in order to check mobile, Tabled and Desktop in different size.
 
-### Navbar
+## Navbar
 
-* Plan 
+### Plan 
 
-As the majority of my their mobile users my approach was mobile firts responsive, the idea it was to make mobile users confortable while exploring the website and add some animation on the navbar link that recall super mario videogame. Each section has a read me button which redirect to external links.
+As the majority of my their mobile users my approach was mobile first responsive, the idea it was to make mobile users comfortable while exploring the website and add some animation on the navbar link that recall super mario videogames. Each section has a read me button which redirect to external links.
 
-* Implementation
+### Implementation
 
-I made links in navbar with animation effect when hover on it, to divide sections I used diagonal box wiht title and super mario effect.
+I made links in navbar with animation effect when hover on it, to divide sections I used diagonal box width title and super mario effect.
 
-* Test 
+### Test 
 
-When I first tested for mobile resolution I noticed that while hovering on the nav links the animation didn't behave like what I espected, the pipe image actually flip over and the result was poor in terms of UI.
+When I first tested for mobile resolution I noticed that while hovering on the nav links the animation didn't behave like what I expected, the pipe image actually flip over and the result was poor in terms of UI.
 
-I decide to wrap the list emelemts inside anothe div then I added diplay flex for mobile min-widht.
+I decide to wrap the list elements inside another div then I added display flex for mobile min-widht.
 
-* Result
+### Result
 
 Animation is now working as planned with nice and smooth transition. On mobile screen is now easy to view and navigate.
 
 ### Videogame section
 
-* Plan
+### Plan
 
 My plan is to create a videogame section with text content to give an overview of the game history and a button where the user can click and being redirect to an external video link. 
 
-* Implementation
+### Implementation
 
-I created a section with two text content, a carousel where the user can explore different videogame version, and one button to see the video.
+I created a section with two text content, a carousel where the user can explore different videogames version, and one button to see the video.
 
-* Test 
+### Test 
 
 I have tried  to navigate on mobile and tablet, resolution was good but I wasn't happy in terms of UI. Users can be confused with the call to action button they may aspect to read more content rather than redirect to youtube video.
 
-I decide to diplay the video directly in the section so no need to click another button but the video can be played directly in the website, underneath the first text content I placed the carousel  than the video iframe as a last element.
+I decide to display the video directly in the section so no need to click another button but the video can be played directly in the website, underneath the first text content I placed the carousel  than the video iframe as a last element.
 
-* Result
+### Result
 
 Videogame section is now working as planned, is more easy to read and intuitive for the UI point of view.
 
 ### Contact Form
 
-* Plan
+### Plan
 
 After visiting the website user is able to get in contact via email simple to make a request or receiving addition info.
 
-* Implementation
+### Implementation
 
 I created responsive contact form with required inputs and with a fancy background image.
 
-* Test 
+### Test 
 
 Form work as expected in terms of responsiveness for all the screen size but the background is not in line with the website design and not consistent with the design I had in mind.
 
 I searched online for an image of super mario warp zone and replace the previous one.
 
-* Result
+### Result
 
 Now the contact section is solid and consistent with the rest of the design from the top to the bottom.
 
@@ -225,7 +225,7 @@ Testing CSS with [CSS Validator](https://jigsaw.w3.org/css-validator/), no error
 #### Responsiveness
 * Bootstrap implemented throughout the project to ensure mobile first responsive and   tested with devtools and Lambdatest.
 
-* **Result** was successfull and as to be expected.
+* **Result** was successful and as to be expected.
 
 #### Design
 * **Implementation** got inspiration from the official Mario website of Nintendo but not following any particular pattern, I decide to use diagonal separator for each section and using fonts and images that reminds me the game also to give sense of familiarity for those who knows the game.
@@ -244,7 +244,7 @@ The Origins of Super mario was developed on **GitPod** and host the repository.
 
 When deploying The origins of Super Mario, the following steps were made:
 
-* **GitHub** opened in the broser.
+* **GitHub** opened in the browser.
 * Sign in  using username and password.
 * Selected my repositories.
 * Clicked **Settings** on the top navigation.
